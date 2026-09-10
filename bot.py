@@ -50,14 +50,21 @@ def variants_keyboard() -> InlineKeyboardMarkup:
 
 
 def question_keyboard(qnum: int, options: dict) -> InlineKeyboardMarkup:
-    buttons = []
+    # Tugmalarda faqat harf ko'rsatiladi — javob matni savol ichida to'liq beriladi.
+    # Telegram tugma matnini cheklaganidan uzun javoblar kesilib qolmasligi uchun shunday qilingan.
+    row = []
     for letter in ["A", "B", "C", "D"]:
         if letter in options:
-            text = f"{letter}) {options[letter]}"
-            if len(text) > 60:
-                text = text[:57] + "..."
-            buttons.append([InlineKeyboardButton(text=text, callback_data=f"answer:{qnum}:{letter}")])
-    return InlineKeyboardMarkup(inline_keyboard=buttons)
+            row.append(InlineKeyboardButton(text=letter, callback_data=f"answer:{qnum}:{letter}"))
+    return InlineKeyboardMarkup(inline_keyboard=[row])
+
+
+def format_options(options: dict) -> str:
+    lines = []
+    for letter in ["A", "B", "C", "D"]:
+        if letter in options:
+            lines.append(f"{letter}) {options[letter]}")
+    return "\n".join(lines)
 
 
 async def send_question(chat_id: int, user_id: int):
@@ -73,7 +80,7 @@ async def send_question(chat_id: int, user_id: int):
     variant = VARIANTS[session["variant"]]
     q = variant["questions"][str(qnum)]
 
-    text = f"❓ Savol {idx + 1}/{len(order)}\n\n{q['text']}"
+    text = f"❓ Savol {idx + 1}/{len(order)}\n\n{q['text']}\n\n{format_options(q['options'])}"
     await bot.send_message(chat_id, text, reply_markup=question_keyboard(qnum, q["options"]))
 
 
@@ -142,18 +149,22 @@ async def cb_answer(callback: CallbackQuery):
 
     variant = VARIANTS[session["variant"]]
     correct_letter = variant["answers"][str(qnum)]
+    options = variant["questions"][str(qnum)]["options"]
     is_correct = letter == correct_letter
 
     if is_correct:
         session["correct"] += 1
-        feedback = "✅ To'g'ri!"
+        feedback = f"🟢 To'g'ri javob: {letter}) {options[letter]}"
     else:
-        correct_text = variant["questions"][str(qnum)]["options"][correct_letter]
-        feedback = f"❌ Noto'g'ri. To'g'ri javob: {correct_letter}) {correct_text}"
+        feedback = (
+            f"🔴 Sizning javobingiz: {letter}) {options[letter]}\n"
+            f"🟢 To'g'ri javob: {correct_letter}) {options[correct_letter]}"
+        )
 
-    await callback.answer(feedback, show_alert=False)
-    await callback.message.edit_reply_markup(reply_markup=None)
-    await bot.send_message(callback.message.chat.id, feedback)
+    await callback.answer("To'g'ri!" if is_correct else "Noto'g'ri", show_alert=False)
+    # Savol matnini saqlab qolamiz, faqat tugmalarni olib tashlaymiz va natijani pastiga qo'shamiz.
+    new_text = f"{callback.message.text}\n\n{feedback}"
+    await callback.message.edit_text(new_text, reply_markup=None)
 
     session["idx"] += 1
     await send_question(callback.message.chat.id, user_id)
