@@ -1278,5 +1278,2565 @@
       "24": "C",
       "25": "B"
     }
+  },
+  "6": {
+    "questions": {
+      "1": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonunning asosiy maqsadi nimadan iborat?",
+        "options": {
+          "A": "Faqat jinoiy jazolarni kuchaytirish",
+          "B": "Korrupsiyaga qarshi kurashish sohasidagi munosabatlarni tartibga solish",
+          "C": "Davlat xizmatchilarining ish haqini oshirish",
+          "D": "Byudjet mablag'larini cheklash"
+        }
+      },
+      "2": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplari soni nechta?",
+        "options": {
+          "A": "5 ta",
+          "B": "7 ta",
+          "C": "9 ta",
+          "D": "12 ta"
+        }
+      },
+      "3": {
+        "text": "Korrupsiyaga qarshi kurashish sohasida davlat siyosatining asosiy yo'nalishlaridan biri nima?",
+        "options": {
+          "A": "Aholining huquqiy madaniyatini yuksaltirish va murosasiz muhitni shakllantirish",
+          "B": "Xususiy tadbirkorlikni cheklash",
+          "C": "Barcha soliq stavkalarini bir xil qilish",
+          "D": "Xalqaro savdoni taqiqlash"
+        }
+      },
+      "4": {
+        "text": "Jamiyatda korrupsiyaga nisbatan qanday munosabatni shakllantirish belgilangan?",
+        "options": {
+          "A": "Murosasiz munosabat",
+          "B": "Ijobiy munosabat",
+          "C": "Betaraf munosabat",
+          "D": "Tushunib qarash"
+        }
+      },
+      "5": {
+        "text": "Fuqarolik jamiyati institutlari korrupsiyaga qarshi kurashishda qanday huquqqa ega?",
+        "options": {
+          "A": "Jamoatchilik nazoratini amalga oshirish",
+          "B": "Jinoyatchilarni o'zlari jazolash",
+          "C": "Soliq undirish",
+          "D": "Byudjetni taqsimlash"
+        }
+      },
+      "6": {
+        "text": "Korrupsiyaga qarshi ichki nazorat (komplayens-nazorat) bo'linmasining asosiy maqsadi nima?",
+        "options": {
+          "A": "Xodimlarni jazolash",
+          "B": "Korrupsiyaviy xavf-xatarlarni erta aniqlash, baholash va oldini olish (profilaktika)",
+          "C": "Faqat buxgalteriya hisobini yuritish",
+          "D": "Kadrlar yig'ish"
+        }
+      },
+      "7": {
+        "text": "ISO 37001:2016 xalqaro standarti nima deb ataladi?",
+        "options": {
+          "A": "Axborot xavfsizligi tizimi",
+          "B": "Korrupsiyaga qarshi boshqaruv tizimlari (Anti-bribery management systems)",
+          "C": "Ekologik xavfsizlik standarti",
+          "D": "Sifat menejmenti standarti"
+        }
+      },
+      "8": {
+        "text": "\"Raqamli komplayens\" tizimining asosiy vazifasi nimadan iborat?",
+        "options": {
+          "A": "Barcha jarayonlarni avtomatlashtirilgan holda sun'iy intellekt va Big Data orqali masofaviy tahlil qilish",
+          "B": "Kompyuter o'yinlarini o'ynash",
+          "C": "Internet tezligini oshirish",
+          "D": "Qog'oz hujjatlarni ko'paytirish"
+        }
+      },
+      "9": {
+        "text": "Tashkilotda korrupsiyaga qarshi kurashishda \"Tone at the Top\" (Rahbariyatning o'rnak bo'lishi) nimani anglatadi?",
+        "options": {
+          "A": "Rahbarning shaxsan o'zi qonun va halollik standartlariga qat'iy rioya etishi",
+          "B": "Rahbarning ishga kech kelishi",
+          "C": "Rahbarning ko'rsatma bermasligi",
+          "D": "Faqat buyruq chiqarishi"
+        }
+      },
+      "10": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "11": {
+        "text": "\"Manfaatlar to'qnashuvi to'g'risida\"gi Qonunga ko'ra, manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlikning ustuvorligi",
+          "B": "Manfaatlar to'qnashuvini oshkor qilishning majburiyligi",
+          "C": "Oshkor qilmaslik huquqi",
+          "D": "Faqat rahbarlar uchun amal qilishi"
+        }
+      },
+      "12": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlik mavjud bo'lib, kelgusida xizmat vazifalarini bajarishda xolislikka ta'sir ko'rsatishi mumkin bo'lgan holat",
+          "B": "Sodir bo'lib ulgurgan jinoyat",
+          "C": "Hech qanday aloqasi yo'q holat",
+          "D": "Xodimning ta'tildagi vaqti"
+        }
+      },
+      "13": {
+        "text": "Davlat xizmatchisi manfaatlar to'qnashuvi yuzaga kelganda nima qilishi shart?",
+        "options": {
+          "A": "Darhol bu haqda bevosita rahbariga va komplayens xizmatiga yozma ravishda xabar berish",
+          "B": "Hech kimga aytmasdan ishni davom ettirish",
+          "C": "Ishdan bo'shab ketish",
+          "D": "Masalani yashirish"
+        }
+      },
+      "14": {
+        "text": "Davlat xizmatchisining yaqin qarindoshlari qaysilar?",
+        "options": {
+          "A": "Ota-ona, aka-uka, opa-singil, farzand, er (xotin)",
+          "B": "Faqat qo'shnilar",
+          "C": "Ishdagi hamkasblar",
+          "D": "Barcha tanishlar"
+        }
+      },
+      "15": {
+        "text": "Xodim ishga qabul qilinayotganda yaqin qarindoshlarining bir tizimda ishlashi bo'yicha nima qilishi kerak?",
+        "options": {
+          "A": "Oldindan deklaratsiya taqdim etishi va ogohlantirishi shart",
+          "B": "Hech narsa demasligi kerak",
+          "C": "Faqat og'zaki aytishi kifoya",
+          "D": "Buni yashirishi kerak"
+        }
+      },
+      "16": {
+        "text": "Davlat xaridlarini amalga oshirishda qanday usullarga ustuvorlik beriladi?",
+        "options": {
+          "A": "Raqobatli xarid usullariga (elektron do'kon, auksion, eng yaxshi taklif, tender)",
+          "B": "Faqat bitta tanish ta'minotchi bilan ishlashga",
+          "C": "Og'zaki kelishuvlarga",
+          "D": "Yashirin tenderlarga"
+        }
+      },
+      "17": {
+        "text": "Davlat xaridlari tizimida benefitsiar mulkdorlarni oshkor qilishdan maqsad nima?",
+        "options": {
+          "A": "Haqiqiy egalari va manfaatlar to'qnashuvini aniqlash",
+          "B": "Xaridlarni sekinlashtirish",
+          "C": "Ma'lumotlarni yashirish",
+          "D": "Soliqni kamaytirish"
+        }
+      },
+      "18": {
+        "text": "PF-259-son Farmonga muvofiq davlat xaridlarida raqobatli xaridlar ulushini necha foizga yetkazish belgilangan?",
+        "options": {
+          "A": "90--95% dan ortiq",
+          "B": "50%",
+          "C": "30%",
+          "D": "10%"
+        }
+      },
+      "19": {
+        "text": "Kartel kelishuvlari (narxlarni sun'iy saqlash) davlat xaridlarida nima hisoblanadi?",
+        "options": {
+          "A": "Jiddiy huquqbuzarlik va korrupsiya belgisi",
+          "B": "Oddiy savdo siri",
+          "C": "Rag'batlantiriladigan holat",
+          "D": "Ruxsat etilgan usul"
+        }
+      },
+      "20": {
+        "text": "Davlat xaridlari qaysi maxsus portal orqali amalga oshiriladi?",
+        "options": {
+          "A": "xarid.uzbekistan.uz va maxsus elektron portallar",
+          "B": "Istalganijtimoiy tarmoq",
+          "C": "Faqat pochta orqali",
+          "D": "Telegram kanallar"
+        }
+      },
+      "21": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarni rag'batlantirish qanday amalga oshiriladi?",
+        "options": {
+          "A": "Bir martalik pul mukofoti, tashakkurnoma yoki esdalik sovg'asi bilan",
+          "B": "Faqat og'zaki maqtov bilan",
+          "C": "Rag'batlantirilmaydi",
+          "D": "Jarima solish orqali"
+        }
+      },
+      "22": {
+        "text": "Normativ-huquqiy hujjatlarning korrupsiyaga qarshi ekspertizasining asosiy vazifasi nima?",
+        "options": {
+          "A": "Loyihalardagi korrupsiyaviy omillar (bo'shliqlar, diskretsion vakolatlar)ni aniqlash va bartaraf etish",
+          "B": "Hujjat hajmini qisqartirish",
+          "C": "Imlo xatolarini tekshirish",
+          "D": "Tarjima qilish"
+        }
+      },
+      "23": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "24": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarning huquqlari qanday himoya qilinadi?",
+        "options": {
+          "A": "Qonun bilan davlat muhofazasiga olinadi (anonimlik va xavfsizlik ta'minlanadi)",
+          "B": "Himoya qilinmaydi",
+          "C": "Faqat o'z xohishiga ko'ra",
+          "D": "Ishdan bo'shatiladi"
+        }
+      },
+      "25": {
+        "text": "Korrupsiyaga qarshi kurashish agentligi respublikamizda qachon tashkil etilgan?",
+        "options": {
+          "A": "2020-yilda",
+          "B": "2010-yilda",
+          "C": "2015-yilda",
+          "D": "2024-yilda"
+        }
+      }
+    },
+    "answers": {
+      "1": "B",
+      "2": "B",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "B",
+      "7": "B",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "B",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "A",
+      "20": "A",
+      "21": "A",
+      "22": "A",
+      "23": "A",
+      "24": "A",
+      "25": "A"
+    }
+  },
+  "7": {
+    "questions": {
+      "1": {
+        "text": "Quyidagilardan qaysi biri korrupsiyaga qarshi kurashish prinsiplariga kirmaydi?",
+        "options": {
+          "A": "Qonuniylik",
+          "B": "Ochiqlik va shaffoflik",
+          "C": "Maxfiylik va yashirinlik",
+          "D": "Javobgarlikning muqarrarligi"
+        }
+      },
+      "2": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonun qaysi yilda qabul qilingan?",
+        "options": {
+          "A": "2015-yil",
+          "B": "2017-yil 3-yanvar",
+          "C": "2020-yil",
+          "D": "2022-yil"
+        }
+      },
+      "3": {
+        "text": "Korrupsiyaga qarshi kurashish subyektlari faoliyatini kim muvofiqlashtiradi?",
+        "options": {
+          "A": "Korrupsiyaga qarshi kurashish agentligi va maxsus subyektlar",
+          "B": "Faqat soliq idorasi",
+          "C": "Tijorat banklari",
+          "D": "Qurilish vazirligi"
+        }
+      },
+      "4": {
+        "text": "Korrupsiyaga qarshi kurashishda qaysi prinsip ustuvor etib belgilangan?",
+        "options": {
+          "A": "Oldini olishga doir chora-tadbirlar ustuvorligi",
+          "B": "Jazolashning keskinligi",
+          "C": "Faqat jarima solish",
+          "D": "Yashirin tekshiruvlar"
+        }
+      },
+      "5": {
+        "text": "Davlat organlarida komplayens-nazorat bo'linmasi kimga bo'ysunadi va hisobdordir?",
+        "options": {
+          "A": "Bosh buxgalterga",
+          "B": "Bevosita tashkilot rahbariga",
+          "C": "Kasaba uyushmasiga",
+          "D": "Tuman hokimiga"
+        }
+      },
+      "6": {
+        "text": "Komplayens nazoratchi faoliyatining asosiy talablaridan biri nima?",
+        "options": {
+          "A": "Mustaqillik va xolislik",
+          "B": "Tashkilot tijorat faoliyatida qatnashish",
+          "C": "Rahbariyat ko'rsatmasini ko'r-ko'rona bajarish",
+          "D": "Mijozlar bilan shartnoma tuzish"
+        }
+      },
+      "7": {
+        "text": "Komplayens bo'linmasi qaysi jarayonlarni doimiy monitoring qiladi?",
+        "options": {
+          "A": "Davlat xaridlari, manfaatlar to'qnashuvi va sovg'alar reyestrini",
+          "B": "Faqat xodimlarning tushlik vaqtini",
+          "C": "Ob-havo ma'lumotlarini",
+          "D": "Sport musobaqalarini"
+        }
+      },
+      "8": {
+        "text": "Kontragentlarni (hamkorlarni) shartnoma tuzishdan oldin tekshirish qanday nomlanadi?",
+        "options": {
+          "A": "Due Diligence (tegishli tartibda tekshirish)",
+          "B": "Audit",
+          "C": "Inventarizatsiya",
+          "D": "Reyting baholash"
+        }
+      },
+      "9": {
+        "text": "Komplayens xizmati xodimlari uchun qanday talablar qo'yiladi?",
+        "options": {
+          "A": "Yuksak kasbiy odob-axloq, halollik va tegishli malaka",
+          "B": "Faqat sport tayyorgarligi",
+          "C": "Chet tillarini mukammal bilish",
+          "D": "Tijorat tajribasi"
+        }
+      },
+      "10": {
+        "text": "Mavjud manfaatlar to'qnashuviga amaliy misol qaysi?",
+        "options": {
+          "A": "Xodimning yaqin qarindoshi rahbarlik qiladigan korxona bilan xarid shartnomasi imzolanayotganda xodimning ovoz berishi",
+          "B": "Xodimning bo'sh vaqtida kitob o'qishi",
+          "C": "Xodimning boshqa tumanda yashovchi tanishi",
+          "D": "Soliq inspektorining ishga o'z vaqtida kelishi"
+        }
+      },
+      "11": {
+        "text": "Nepotizm so'zining ma'nosi nima?",
+        "options": {
+          "A": "Qarindosh-urug'chilik / tanish-bilishchilik asosida imtiyozlar berish",
+          "B": "Adolatli tanlov o'tkazish",
+          "C": "Iqtisodiy o'sish",
+          "D": "Ilmiy tadqiqot"
+        }
+      },
+      "12": {
+        "text": "Affillangan shaxslar deganda nima tushuniladi?",
+        "options": {
+          "A": "O'zaro iqtisodiy yoki qarindoshlik aloqalariga ega bo'lgan shaxslar",
+          "B": "Tasodifiy o'tkinchilar",
+          "C": "Chet el fuqarolari",
+          "D": "Faqat bir xil kiyim kiyganlar"
+        }
+      },
+      "13": {
+        "text": "Manfaatlar to'qnashuvini o'z vaqtida bartaraf etmaslik nimaga olib keladi?",
+        "options": {
+          "A": "Intizomiy va boshqa qonuniy javobgarlikka",
+          "B": "Mukofot berilishiga",
+          "C": "Lavozim ko'tarilishiga",
+          "D": "Hech qanday oqibatga yo'q"
+        }
+      },
+      "14": {
+        "text": "Sovg'alar olish va berish bo'yicha davlat xizmatchilariga qanday cheklovlar qo'yilgan?",
+        "options": {
+          "A": "Xizmat mavqei bilan bog'liq holda har qanday sovg'alarni olish qat'iyan taqiqlanadi (ramziy sovg'alar bundan mustasno)",
+          "B": "Istalgan qimmatbaho sovg'ani olish mumkin",
+          "C": "Faqat pul olish taqiqlangan",
+          "D": "Cheklov yo'q"
+        }
+      },
+      "15": {
+        "text": "Davlat xaridlarida \"Qizil bayroqchalar\" (Red flags) nima ma'noni anglatadi?",
+        "options": {
+          "A": "Korrupsiya va qonunbuzarlik xavfini bildiruvchi shubhali belgilar",
+          "B": "Bayram bayroqlari",
+          "C": "Sport musobaqasi belgiilari",
+          "D": "Texnik xatoliklar"
+        }
+      },
+      "16": {
+        "text": "To'g'ridan-to'g'ri shartnomalar tuzishga qachon yo'l qo'yiladi?",
+        "options": {
+          "A": "Faqat qonun, Prezident va Hukumat qarorlarida qat'iy belgilangan istisno holatlarda",
+          "B": "Xodimning xohishiga ko'ra istalgan vaqtda",
+          "C": "Pul ko'p bo'lganda",
+          "D": "Hech qachon yo'l qo'yilmaydi"
+        }
+      },
+      "17": {
+        "text": "Davlat xaridlarida elektron do'kon qanday tovarlar uchun ishlatiladi?",
+        "options": {
+          "A": "Standartlashtirilgan kundalik tovarlar uchun",
+          "B": "Murakkab binolar qurish uchun",
+          "C": "Aviatsiya texnikasi uchun",
+          "D": "Maxfiy ishlar uchun"
+        }
+      },
+      "18": {
+        "text": "Xarid komissiyasi a'zolari nima qilishlari shart?",
+        "options": {
+          "A": "Ishtirokchilar bilan manfaatlar to'qnashuvi yo'qligi haqida deklaratsiya imzolash",
+          "B": "Ishtirokchilar bilan oldindan kelishish",
+          "C": "Faqat rahbar aytganini qilish",
+          "D": "Ma'lumotlarni yashirish"
+        }
+      },
+      "19": {
+        "text": "Xaridlarni sun'iy ravishda partiyalarga bo'lib yuborishdan maqsad nima bo'ladi?",
+        "options": {
+          "A": "Raqobatli savdolardan (tender/tanlovdan) qochish va to'g'ridan-to'g'ri shartnoma tuzish",
+          "B": "Ishni tezlashtirish",
+          "C": "Sifatni oshirish",
+          "D": "Byudjetni tejash"
+        }
+      },
+      "20": {
+        "text": "Davlat xizmatchilarining ijtimoiy tarmoqlardagi xulq-atvoriga oid talablarga nimalar kiradi?",
+        "options": {
+          "A": "Davlat xizmati nufuziga putur yetkazuvchi, sir saqlanishi kerak bo'lgan ma'lumotlarni tarqatmaslik",
+          "B": "Ijtimoiy tarmoqdan umuman foydalanmaslik",
+          "C": "Faqat shaxsiy suratlar qo'yish",
+          "D": "Siyosiy bahslarda faol qatnashish"
+        }
+      },
+      "21": {
+        "text": "Ochiqlik indeksi nechta ballik tizimda baholanadi va qanday toifalarga bo'linadi?",
+        "options": {
+          "A": "100 ballik tizim, \"Yashil\", \"Sariq\", \"Qizil\" toifalar",
+          "B": "50 ballik, A, B, C",
+          "C": "10 ballik, yaxshi/yomon",
+          "D": "1000 ballik"
+        }
+      },
+      "22": {
+        "text": "Davlat xizmatchisi odob-axloq qoidalariga rioya qilmasa nima bo'ladi?",
+        "options": {
+          "A": "Intizomiy javobgarlikka tortiladi",
+          "B": "Rag'batlantiriladi",
+          "C": "Hech narsa bo'lmaydi",
+          "D": "Ta'til beriladi"
+        }
+      },
+      "23": {
+        "text": "E-Antikorrupsiya axborot tizimining asosiy vazifasi nima?",
+        "options": {
+          "A": "Korrupsiyaga qarshi faoliyatni va xavf-xatarlarni raqamlashtirish hamda monitoring qilish",
+          "B": "O'yin o'ynash",
+          "C": "Musiqa tinglash",
+          "D": "Film ko'rish"
+        }
+      },
+      "24": {
+        "text": "Davlat xizmatchilari uchun \"Halollik vaksinasi\" deganda nima tushuniladi?",
+        "options": {
+          "A": "Xodimlarda korrupsiyaga nisbatan ichki murosasizlik va yuksak axloqiy immunitetni shakllantirish",
+          "B": "Tibbiy emlash",
+          "C": "Soliq to'lash",
+          "D": "Imtihon topshirish"
+        }
+      },
+      "25": {
+        "text": "\"Korrupsiya\" tushunchasining qonunchilikdagi to'g'ri ta'rifini ko'rsating.",
+        "options": {
+          "A": "Mansab mavqeidan shaxsiy manfaat ko'zlab qonunga xilof ravishda foydalanish yoki naf taqdim etish",
+          "B": "Har qanday moliyaviy xato",
+          "C": "Davlat xizmatchisining ishga kech qolishi",
+          "D": "Xizmat hujjatlarini yo'qotib qo'yish"
+        }
+      }
+    },
+    "answers": {
+      "1": "C",
+      "2": "B",
+      "3": "A",
+      "4": "A",
+      "5": "B",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "A",
+      "20": "A",
+      "21": "A",
+      "22": "A",
+      "23": "A",
+      "24": "A",
+      "25": "A"
+    }
+  },
+  "8": {
+    "questions": {
+      "1": {
+        "text": "Jamiyatda korrupsiyaga nisbatan qanday munosabatni shakllantirish belgilangan?",
+        "options": {
+          "A": "Murosasiz munosabat",
+          "B": "Ijobiy munosabat",
+          "C": "Betaraf munosabat",
+          "D": "Tushunib qarash"
+        }
+      },
+      "2": {
+        "text": "Fuqarolik jamiyati institutlari korrupsiyaga qarshi kurashishda qanday huquqqa ega?",
+        "options": {
+          "A": "Jamoatchilik nazoratini amalga oshirish",
+          "B": "Jinoyatchilarni o'zlari jazolash",
+          "C": "Soliq undirish",
+          "D": "Byudjetni taqsimlash"
+        }
+      },
+      "3": {
+        "text": "Korrupsiyaga qarshi ichki nazorat (komplayens-nazorat) bo'linmasining asosiy maqsadi nima?",
+        "options": {
+          "A": "Xodimlarni jazolash",
+          "B": "Korrupsiyaviy xavf-xatarlarni erta aniqlash, baholash va oldini olish (profilaktika)",
+          "C": "Faqat buxgalteriya hisobini yuritish",
+          "D": "Kadrlar yig'ish"
+        }
+      },
+      "4": {
+        "text": "ISO 37001:2016 xalqaro standarti nima deb ataladi?",
+        "options": {
+          "A": "Axborot xavfsizligi tizimi",
+          "B": "Korrupsiyaga qarshi boshqaruv tizimlari (Anti-bribery management systems)",
+          "C": "Ekologik xavfsizlik standarti",
+          "D": "Sifat menejmenti standarti"
+        }
+      },
+      "5": {
+        "text": "\"Raqamli komplayens\" tizimining asosiy vazifasi nimadan iborat?",
+        "options": {
+          "A": "Barcha jarayonlarni avtomatlashtirilgan holda sun'iy intellekt va Big Data orqali masofaviy tahlil qilish",
+          "B": "Kompyuter o'yinlarini o'ynash",
+          "C": "Internet tezligini oshirish",
+          "D": "Qog'oz hujjatlarni ko'paytirish"
+        }
+      },
+      "6": {
+        "text": "Tashkilotda korrupsiyaga qarshi kurashishda \"Tone at the Top\" (Rahbariyatning o'rnak bo'lishi) nimani anglatadi?",
+        "options": {
+          "A": "Rahbarning shaxsan o'zi qonun va halollik standartlariga qat'iy rioya etishi",
+          "B": "Rahbarning ishga kech kelishi",
+          "C": "Rahbarning ko'rsatma bermasligi",
+          "D": "Faqat buyruq chiqarishi"
+        }
+      },
+      "7": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "8": {
+        "text": "\"Manfaatlar to'qnashuvi to'g'risida\"gi Qonunga ko'ra, manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlikning ustuvorligi",
+          "B": "Manfaatlar to'qnashuvini oshkor qilishning majburiyligi",
+          "C": "Oshkor qilmaslik huquqi",
+          "D": "Faqat rahbarlar uchun amal qilishi"
+        }
+      },
+      "9": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlik mavjud bo'lib, kelgusida xizmat vazifalarini bajarishda xolislikka ta'sir ko'rsatishi mumkin bo'lgan holat",
+          "B": "Sodir bo'lib ulgurgan jinoyat",
+          "C": "Hech qanday aloqasi yo'q holat",
+          "D": "Xodimning ta'tildagi vaqti"
+        }
+      },
+      "10": {
+        "text": "Davlat xizmatchisi manfaatlar to'qnashuvi yuzaga kelganda nima qilishi shart?",
+        "options": {
+          "A": "Darhol bu haqda bevosita rahbariga va komplayens xizmatiga yozma ravishda xabar berish",
+          "B": "Hech kimga aytmasdan ishni davom ettirish",
+          "C": "Ishdan bo'shab ketish",
+          "D": "Masalani yashirish"
+        }
+      },
+      "11": {
+        "text": "Davlat xizmatchisining yaqin qarindoshlari qaysilar?",
+        "options": {
+          "A": "Ota-ona, aka-uka, opa-singil, farzand, er (xotin)",
+          "B": "Faqat qo'shnilar",
+          "C": "Ishdagi hamkasblar",
+          "D": "Barcha tanishlar"
+        }
+      },
+      "12": {
+        "text": "Xodim ishga qabul qilinayotganda yaqin qarindoshlarining bir tizimda ishlashi bo'yicha nima qilishi kerak?",
+        "options": {
+          "A": "Oldindan deklaratsiya taqdim etishi va ogohlantirishi shart",
+          "B": "Hech narsa demasligi kerak",
+          "C": "Faqat og'zaki aytishi kifoya",
+          "D": "Buni yashirishi kerak"
+        }
+      },
+      "13": {
+        "text": "Davlat xaridlarini amalga oshirishda qanday usullarga ustuvorlik beriladi?",
+        "options": {
+          "A": "Raqobatli xarid usullariga (elektron do'kon, auksion, eng yaxshi taklif, tender)",
+          "B": "Faqat bitta tanish ta'minotchi bilan ishlashga",
+          "C": "Og'zaki kelishuvlarga",
+          "D": "Yashirin tenderlarga"
+        }
+      },
+      "14": {
+        "text": "Davlat xaridlari tizimida benefitsiar mulkdorlarni oshkor qilishdan maqsad nima?",
+        "options": {
+          "A": "Haqiqiy egalari va manfaatlar to'qnashuvini aniqlash",
+          "B": "Xaridlarni sekinlashtirish",
+          "C": "Ma'lumotlarni yashirish",
+          "D": "Soliqni kamaytirish"
+        }
+      },
+      "15": {
+        "text": "PF-259-son Farmonga muvofiq davlat xaridlarida raqobatli xaridlar ulushini necha foizga yetkazish belgilangan?",
+        "options": {
+          "A": "90--95% dan ortiq",
+          "B": "50%",
+          "C": "30%",
+          "D": "10%"
+        }
+      },
+      "16": {
+        "text": "Kartel kelishuvlari (narxlarni sun'iy saqlash) davlat xaridlarida nima hisoblanadi?",
+        "options": {
+          "A": "Jiddiy huquqbuzarlik va korrupsiya belgisi",
+          "B": "Oddiy savdo siri",
+          "C": "Rag'batlantiriladigan holat",
+          "D": "Ruxsat etilgan usul"
+        }
+      },
+      "17": {
+        "text": "Davlat xaridlari qaysi maxsus portal orqali amalga oshiriladi?",
+        "options": {
+          "A": "xarid.uzbekistan.uz va maxsus elektron portallar",
+          "B": "Istalganijtimoiy tarmoq",
+          "C": "Faqat pochta orqali",
+          "D": "Telegram kanallar"
+        }
+      },
+      "18": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarni rag'batlantirish qanday amalga oshiriladi?",
+        "options": {
+          "A": "Bir martalik pul mukofoti, tashakkurnoma yoki esdalik sovg'asi bilan",
+          "B": "Faqat og'zaki maqtov bilan",
+          "C": "Rag'batlantirilmaydi",
+          "D": "Jarima solish orqali"
+        }
+      },
+      "19": {
+        "text": "Normativ-huquqiy hujjatlarning korrupsiyaga qarshi ekspertizasining asosiy vazifasi nima?",
+        "options": {
+          "A": "Loyihalardagi korrupsiyaviy omillar (bo'shliqlar, diskretsion vakolatlar)ni aniqlash va bartaraf etish",
+          "B": "Hujjat hajmini qisqartirish",
+          "C": "Imlo xatolarini tekshirish",
+          "D": "Tarjima qilish"
+        }
+      },
+      "20": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "21": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarning huquqlari qanday himoya qilinadi?",
+        "options": {
+          "A": "Qonun bilan davlat muhofazasiga olinadi (anonimlik va xavfsizlik ta'minlanadi)",
+          "B": "Himoya qilinmaydi",
+          "C": "Faqat o'z xohishiga ko'ra",
+          "D": "Ishdan bo'shatiladi"
+        }
+      },
+      "22": {
+        "text": "Korrupsiyaga qarshi kurashish agentligi respublikamizda qachon tashkil etilgan?",
+        "options": {
+          "A": "2020-yilda",
+          "B": "2010-yilda",
+          "C": "2015-yilda",
+          "D": "2024-yilda"
+        }
+      },
+      "23": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonunning asosiy maqsadi nimadan iborat?",
+        "options": {
+          "A": "Faqat jinoiy jazolarni kuchaytirish",
+          "B": "Korrupsiyaga qarshi kurashish sohasidagi munosabatlarni tartibga solish",
+          "C": "Davlat xizmatchilarining ish haqini oshirish",
+          "D": "Byudjet mablag'larini cheklash"
+        }
+      },
+      "24": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplari soni nechta?",
+        "options": {
+          "A": "5 ta",
+          "B": "7 ta",
+          "C": "9 ta",
+          "D": "12 ta"
+        }
+      },
+      "25": {
+        "text": "Korrupsiyaga qarshi kurashish sohasida davlat siyosatining asosiy yo'nalishlaridan biri nima?",
+        "options": {
+          "A": "Aholining huquqiy madaniyatini yuksaltirish va murosasiz muhitni shakllantirish",
+          "B": "Xususiy tadbirkorlikni cheklash",
+          "C": "Barcha soliq stavkalarini bir xil qilish",
+          "D": "Xalqaro savdoni taqiqlash"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "B",
+      "4": "B",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "B",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "A",
+      "20": "A",
+      "21": "A",
+      "22": "A",
+      "23": "B",
+      "24": "B",
+      "25": "A"
+    }
+  },
+  "9": {
+    "questions": {
+      "1": {
+        "text": "Korrupsiyaga qarshi kurashishda qaysi prinsip ustuvor etib belgilangan?",
+        "options": {
+          "A": "Oldini olishga doir chora-tadbirlar ustuvorligi",
+          "B": "Jazolashning keskinligi",
+          "C": "Faqat jarima solish",
+          "D": "Yashirin tekshiruvlar"
+        }
+      },
+      "2": {
+        "text": "Davlat organlarida komplayens-nazorat bo'linmasi kimga bo'ysunadi va hisobdordir?",
+        "options": {
+          "A": "Bosh buxgalterga",
+          "B": "Bevosita tashkilot rahbariga",
+          "C": "Kasaba uyushmasiga",
+          "D": "Tuman hokimiga"
+        }
+      },
+      "3": {
+        "text": "Komplayens nazoratchi faoliyatining asosiy talablaridan biri nima?",
+        "options": {
+          "A": "Mustaqillik va xolislik",
+          "B": "Tashkilot tijorat faoliyatida qatnashish",
+          "C": "Rahbariyat ko'rsatmasini ko'r-ko'rona bajarish",
+          "D": "Mijozlar bilan shartnoma tuzish"
+        }
+      },
+      "4": {
+        "text": "Komplayens bo'linmasi qaysi jarayonlarni doimiy monitoring qiladi?",
+        "options": {
+          "A": "Davlat xaridlari, manfaatlar to'qnashuvi va sovg'alar reyestrini",
+          "B": "Faqat xodimlarning tushlik vaqtini",
+          "C": "Ob-havo ma'lumotlarini",
+          "D": "Sport musobaqalarini"
+        }
+      },
+      "5": {
+        "text": "Kontragentlarni (hamkorlarni) shartnoma tuzishdan oldin tekshirish qanday nomlanadi?",
+        "options": {
+          "A": "Due Diligence (tegishli tartibda tekshirish)",
+          "B": "Audit",
+          "C": "Inventarizatsiya",
+          "D": "Reyting baholash"
+        }
+      },
+      "6": {
+        "text": "Komplayens xizmati xodimlari uchun qanday talablar qo'yiladi?",
+        "options": {
+          "A": "Yuksak kasbiy odob-axloq, halollik va tegishli malaka",
+          "B": "Faqat sport tayyorgarligi",
+          "C": "Chet tillarini mukammal bilish",
+          "D": "Tijorat tajribasi"
+        }
+      },
+      "7": {
+        "text": "Mavjud manfaatlar to'qnashuviga amaliy misol qaysi?",
+        "options": {
+          "A": "Xodimning yaqin qarindoshi rahbarlik qiladigan korxona bilan xarid shartnomasi imzolanayotganda xodimning ovoz berishi",
+          "B": "Xodimning bo'sh vaqtida kitob o'qishi",
+          "C": "Xodimning boshqa tumanda yashovchi tanishi",
+          "D": "Soliq inspektorining ishga o'z vaqtida kelishi"
+        }
+      },
+      "8": {
+        "text": "Nepotizm so'zining ma'nosi nima?",
+        "options": {
+          "A": "Qarindosh-urug'chilik / tanish-bilishchilik asosida imtiyozlar berish",
+          "B": "Adolatli tanlov o'tkazish",
+          "C": "Iqtisodiy o'sish",
+          "D": "Ilmiy tadqiqot"
+        }
+      },
+      "9": {
+        "text": "Affillangan shaxslar deganda nima tushuniladi?",
+        "options": {
+          "A": "O'zaro iqtisodiy yoki qarindoshlik aloqalariga ega bo'lgan shaxslar",
+          "B": "Tasodifiy o'tkinchilar",
+          "C": "Chet el fuqarolari",
+          "D": "Faqat bir xil kiyim kiyganlar"
+        }
+      },
+      "10": {
+        "text": "Manfaatlar to'qnashuvini o'z vaqtida bartaraf etmaslik nimaga olib keladi?",
+        "options": {
+          "A": "Intizomiy va boshqa qonuniy javobgarlikka",
+          "B": "Mukofot berilishiga",
+          "C": "Lavozim ko'tarilishiga",
+          "D": "Hech qanday oqibatga yo'q"
+        }
+      },
+      "11": {
+        "text": "Sovg'alar olish va berish bo'yicha davlat xizmatchilariga qanday cheklovlar qo'yilgan?",
+        "options": {
+          "A": "Xizmat mavqei bilan bog'liq holda har qanday sovg'alarni olish qat'iyan taqiqlanadi (ramziy sovg'alar bundan mustasno)",
+          "B": "Istalgan qimmatbaho sovg'ani olish mumkin",
+          "C": "Faqat pul olish taqiqlangan",
+          "D": "Cheklov yo'q"
+        }
+      },
+      "12": {
+        "text": "Davlat xaridlarida \"Qizil bayroqchalar\" (Red flags) nima ma'noni anglatadi?",
+        "options": {
+          "A": "Korrupsiya va qonunbuzarlik xavfini bildiruvchi shubhali belgilar",
+          "B": "Bayram bayroqlari",
+          "C": "Sport musobaqasi belgiilari",
+          "D": "Texnik xatoliklar"
+        }
+      },
+      "13": {
+        "text": "To'g'ridan-to'g'ri shartnomalar tuzishga qachon yo'l qo'yiladi?",
+        "options": {
+          "A": "Faqat qonun, Prezident va Hukumat qarorlarida qat'iy belgilangan istisno holatlarda",
+          "B": "Xodimning xohishiga ko'ra istalgan vaqtda",
+          "C": "Pul ko'p bo'lganda",
+          "D": "Hech qachon yo'l qo'yilmaydi"
+        }
+      },
+      "14": {
+        "text": "Davlat xaridlarida elektron do'kon qanday tovarlar uchun ishlatiladi?",
+        "options": {
+          "A": "Standartlashtirilgan kundalik tovarlar uchun",
+          "B": "Murakkab binolar qurish uchun",
+          "C": "Aviatsiya texnikasi uchun",
+          "D": "Maxfiy ishlar uchun"
+        }
+      },
+      "15": {
+        "text": "Xarid komissiyasi a'zolari nima qilishlari shart?",
+        "options": {
+          "A": "Ishtirokchilar bilan manfaatlar to'qnashuvi yo'qligi haqida deklaratsiya imzolash",
+          "B": "Ishtirokchilar bilan oldindan kelishish",
+          "C": "Faqat rahbar aytganini qilish",
+          "D": "Ma'lumotlarni yashirish"
+        }
+      },
+      "16": {
+        "text": "Xaridlarni sun'iy ravishda partiyalarga bo'lib yuborishdan maqsad nima bo'ladi?",
+        "options": {
+          "A": "Raqobatli savdolardan (tender/tanlovdan) qochish va to'g'ridan-to'g'ri shartnoma tuzish",
+          "B": "Ishni tezlashtirish",
+          "C": "Sifatni oshirish",
+          "D": "Byudjetni tejash"
+        }
+      },
+      "17": {
+        "text": "Davlat xizmatchilarining ijtimoiy tarmoqlardagi xulq-atvoriga oid talablarga nimalar kiradi?",
+        "options": {
+          "A": "Davlat xizmati nufuziga putur yetkazuvchi, sir saqlanishi kerak bo'lgan ma'lumotlarni tarqatmaslik",
+          "B": "Ijtimoiy tarmoqdan umuman foydalanmaslik",
+          "C": "Faqat shaxsiy suratlar qo'yish",
+          "D": "Siyosiy bahslarda faol qatnashish"
+        }
+      },
+      "18": {
+        "text": "Ochiqlik indeksi nechta ballik tizimda baholanadi va qanday toifalarga bo'linadi?",
+        "options": {
+          "A": "100 ballik tizim, \"Yashil\", \"Sariq\", \"Qizil\" toifalar",
+          "B": "50 ballik, A, B, C",
+          "C": "10 ballik, yaxshi/yomon",
+          "D": "1000 ballik"
+        }
+      },
+      "19": {
+        "text": "Davlat xizmatchisi odob-axloq qoidalariga rioya qilmasa nima bo'ladi?",
+        "options": {
+          "A": "Intizomiy javobgarlikka tortiladi",
+          "B": "Rag'batlantiriladi",
+          "C": "Hech narsa bo'lmaydi",
+          "D": "Ta'til beriladi"
+        }
+      },
+      "20": {
+        "text": "E-Antikorrupsiya axborot tizimining asosiy vazifasi nima?",
+        "options": {
+          "A": "Korrupsiyaga qarshi faoliyatni va xavf-xatarlarni raqamlashtirish hamda monitoring qilish",
+          "B": "O'yin o'ynash",
+          "C": "Musiqa tinglash",
+          "D": "Film ko'rish"
+        }
+      },
+      "21": {
+        "text": "Davlat xizmatchilari uchun \"Halollik vaksinasi\" deganda nima tushuniladi?",
+        "options": {
+          "A": "Xodimlarda korrupsiyaga nisbatan ichki murosasizlik va yuksak axloqiy immunitetni shakllantirish",
+          "B": "Tibbiy emlash",
+          "C": "Soliq to'lash",
+          "D": "Imtihon topshirish"
+        }
+      },
+      "22": {
+        "text": "\"Korrupsiya\" tushunchasining qonunchilikdagi to'g'ri ta'rifini ko'rsating.",
+        "options": {
+          "A": "Mansab mavqeidan shaxsiy manfaat ko'zlab qonunga xilof ravishda foydalanish yoki naf taqdim etish",
+          "B": "Har qanday moliyaviy xato",
+          "C": "Davlat xizmatchisining ishga kech qolishi",
+          "D": "Xizmat hujjatlarini yo'qotib qo'yish"
+        }
+      },
+      "23": {
+        "text": "Quyidagilardan qaysi biri korrupsiyaga qarshi kurashish prinsiplariga kirmaydi?",
+        "options": {
+          "A": "Qonuniylik",
+          "B": "Ochiqlik va shaffoflik",
+          "C": "Maxfiylik va yashirinlik",
+          "D": "Javobgarlikning muqarrarligi"
+        }
+      },
+      "24": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonun qaysi yilda qabul qilingan?",
+        "options": {
+          "A": "2015-yil",
+          "B": "2017-yil 3-yanvar",
+          "C": "2020-yil",
+          "D": "2022-yil"
+        }
+      },
+      "25": {
+        "text": "Korrupsiyaga qarshi kurashish subyektlari faoliyatini kim muvofiqlashtiradi?",
+        "options": {
+          "A": "Korrupsiyaga qarshi kurashish agentligi va maxsus subyektlar",
+          "B": "Faqat soliq idorasi",
+          "C": "Tijorat banklari",
+          "D": "Qurilish vazirligi"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "B",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "A",
+      "20": "A",
+      "21": "A",
+      "22": "A",
+      "23": "C",
+      "24": "B",
+      "25": "A"
+    }
+  },
+  "10": {
+    "questions": {
+      "1": {
+        "text": "ISO 37001:2016 xalqaro standarti nima deb ataladi?",
+        "options": {
+          "A": "Axborot xavfsizligi tizimi",
+          "B": "Korrupsiyaga qarshi boshqaruv tizimlari (Anti-bribery management systems)",
+          "C": "Ekologik xavfsizlik standarti",
+          "D": "Sifat menejmenti standarti"
+        }
+      },
+      "2": {
+        "text": "\"Raqamli komplayens\" tizimining asosiy vazifasi nimadan iborat?",
+        "options": {
+          "A": "Barcha jarayonlarni avtomatlashtirilgan holda sun'iy intellekt va Big Data orqali masofaviy tahlil qilish",
+          "B": "Kompyuter o'yinlarini o'ynash",
+          "C": "Internet tezligini oshirish",
+          "D": "Qog'oz hujjatlarni ko'paytirish"
+        }
+      },
+      "3": {
+        "text": "Tashkilotda korrupsiyaga qarshi kurashishda \"Tone at the Top\" (Rahbariyatning o'rnak bo'lishi) nimani anglatadi?",
+        "options": {
+          "A": "Rahbarning shaxsan o'zi qonun va halollik standartlariga qat'iy rioya etishi",
+          "B": "Rahbarning ishga kech kelishi",
+          "C": "Rahbarning ko'rsatma bermasligi",
+          "D": "Faqat buyruq chiqarishi"
+        }
+      },
+      "4": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "5": {
+        "text": "\"Manfaatlar to'qnashuvi to'g'risida\"gi Qonunga ko'ra, manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlikning ustuvorligi",
+          "B": "Manfaatlar to'qnashuvini oshkor qilishning majburiyligi",
+          "C": "Oshkor qilmaslik huquqi",
+          "D": "Faqat rahbarlar uchun amal qilishi"
+        }
+      },
+      "6": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlik mavjud bo'lib, kelgusida xizmat vazifalarini bajarishda xolislikka ta'sir ko'rsatishi mumkin bo'lgan holat",
+          "B": "Sodir bo'lib ulgurgan jinoyat",
+          "C": "Hech qanday aloqasi yo'q holat",
+          "D": "Xodimning ta'tildagi vaqti"
+        }
+      },
+      "7": {
+        "text": "Davlat xizmatchisi manfaatlar to'qnashuvi yuzaga kelganda nima qilishi shart?",
+        "options": {
+          "A": "Darhol bu haqda bevosita rahbariga va komplayens xizmatiga yozma ravishda xabar berish",
+          "B": "Hech kimga aytmasdan ishni davom ettirish",
+          "C": "Ishdan bo'shab ketish",
+          "D": "Masalani yashirish"
+        }
+      },
+      "8": {
+        "text": "Davlat xizmatchisining yaqin qarindoshlari qaysilar?",
+        "options": {
+          "A": "Ota-ona, aka-uka, opa-singil, farzand, er (xotin)",
+          "B": "Faqat qo'shnilar",
+          "C": "Ishdagi hamkasblar",
+          "D": "Barcha tanishlar"
+        }
+      },
+      "9": {
+        "text": "Xodim ishga qabul qilinayotganda yaqin qarindoshlarining bir tizimda ishlashi bo'yicha nima qilishi kerak?",
+        "options": {
+          "A": "Oldindan deklaratsiya taqdim etishi va ogohlantirishi shart",
+          "B": "Hech narsa demasligi kerak",
+          "C": "Faqat og'zaki aytishi kifoya",
+          "D": "Buni yashirishi kerak"
+        }
+      },
+      "10": {
+        "text": "Davlat xaridlarini amalga oshirishda qanday usullarga ustuvorlik beriladi?",
+        "options": {
+          "A": "Raqobatli xarid usullariga (elektron do'kon, auksion, eng yaxshi taklif, tender)",
+          "B": "Faqat bitta tanish ta'minotchi bilan ishlashga",
+          "C": "Og'zaki kelishuvlarga",
+          "D": "Yashirin tenderlarga"
+        }
+      },
+      "11": {
+        "text": "Davlat xaridlari tizimida benefitsiar mulkdorlarni oshkor qilishdan maqsad nima?",
+        "options": {
+          "A": "Haqiqiy egalari va manfaatlar to'qnashuvini aniqlash",
+          "B": "Xaridlarni sekinlashtirish",
+          "C": "Ma'lumotlarni yashirish",
+          "D": "Soliqni kamaytirish"
+        }
+      },
+      "12": {
+        "text": "PF-259-son Farmonga muvofiq davlat xaridlarida raqobatli xaridlar ulushini necha foizga yetkazish belgilangan?",
+        "options": {
+          "A": "90--95% dan ortiq",
+          "B": "50%",
+          "C": "30%",
+          "D": "10%"
+        }
+      },
+      "13": {
+        "text": "Kartel kelishuvlari (narxlarni sun'iy saqlash) davlat xaridlarida nima hisoblanadi?",
+        "options": {
+          "A": "Jiddiy huquqbuzarlik va korrupsiya belgisi",
+          "B": "Oddiy savdo siri",
+          "C": "Rag'batlantiriladigan holat",
+          "D": "Ruxsat etilgan usul"
+        }
+      },
+      "14": {
+        "text": "Davlat xaridlari qaysi maxsus portal orqali amalga oshiriladi?",
+        "options": {
+          "A": "xarid.uzbekistan.uz va maxsus elektron portallar",
+          "B": "Istalganijtimoiy tarmoq",
+          "C": "Faqat pochta orqali",
+          "D": "Telegram kanallar"
+        }
+      },
+      "15": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarni rag'batlantirish qanday amalga oshiriladi?",
+        "options": {
+          "A": "Bir martalik pul mukofoti, tashakkurnoma yoki esdalik sovg'asi bilan",
+          "B": "Faqat og'zaki maqtov bilan",
+          "C": "Rag'batlantirilmaydi",
+          "D": "Jarima solish orqali"
+        }
+      },
+      "16": {
+        "text": "Normativ-huquqiy hujjatlarning korrupsiyaga qarshi ekspertizasining asosiy vazifasi nima?",
+        "options": {
+          "A": "Loyihalardagi korrupsiyaviy omillar (bo'shliqlar, diskretsion vakolatlar)ni aniqlash va bartaraf etish",
+          "B": "Hujjat hajmini qisqartirish",
+          "C": "Imlo xatolarini tekshirish",
+          "D": "Tarjima qilish"
+        }
+      },
+      "17": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "18": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarning huquqlari qanday himoya qilinadi?",
+        "options": {
+          "A": "Qonun bilan davlat muhofazasiga olinadi (anonimlik va xavfsizlik ta'minlanadi)",
+          "B": "Himoya qilinmaydi",
+          "C": "Faqat o'z xohishiga ko'ra",
+          "D": "Ishdan bo'shatiladi"
+        }
+      },
+      "19": {
+        "text": "Korrupsiyaga qarshi kurashish agentligi respublikamizda qachon tashkil etilgan?",
+        "options": {
+          "A": "2020-yilda",
+          "B": "2010-yilda",
+          "C": "2015-yilda",
+          "D": "2024-yilda"
+        }
+      },
+      "20": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonunning asosiy maqsadi nimadan iborat?",
+        "options": {
+          "A": "Faqat jinoiy jazolarni kuchaytirish",
+          "B": "Korrupsiyaga qarshi kurashish sohasidagi munosabatlarni tartibga solish",
+          "C": "Davlat xizmatchilarining ish haqini oshirish",
+          "D": "Byudjet mablag'larini cheklash"
+        }
+      },
+      "21": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplari soni nechta?",
+        "options": {
+          "A": "5 ta",
+          "B": "7 ta",
+          "C": "9 ta",
+          "D": "12 ta"
+        }
+      },
+      "22": {
+        "text": "Korrupsiyaga qarshi kurashish sohasida davlat siyosatining asosiy yo'nalishlaridan biri nima?",
+        "options": {
+          "A": "Aholining huquqiy madaniyatini yuksaltirish va murosasiz muhitni shakllantirish",
+          "B": "Xususiy tadbirkorlikni cheklash",
+          "C": "Barcha soliq stavkalarini bir xil qilish",
+          "D": "Xalqaro savdoni taqiqlash"
+        }
+      },
+      "23": {
+        "text": "Jamiyatda korrupsiyaga nisbatan qanday munosabatni shakllantirish belgilangan?",
+        "options": {
+          "A": "Murosasiz munosabat",
+          "B": "Ijobiy munosabat",
+          "C": "Betaraf munosabat",
+          "D": "Tushunib qarash"
+        }
+      },
+      "24": {
+        "text": "Fuqarolik jamiyati institutlari korrupsiyaga qarshi kurashishda qanday huquqqa ega?",
+        "options": {
+          "A": "Jamoatchilik nazoratini amalga oshirish",
+          "B": "Jinoyatchilarni o'zlari jazolash",
+          "C": "Soliq undirish",
+          "D": "Byudjetni taqsimlash"
+        }
+      },
+      "25": {
+        "text": "Korrupsiyaga qarshi ichki nazorat (komplayens-nazorat) bo'linmasining asosiy maqsadi nima?",
+        "options": {
+          "A": "Xodimlarni jazolash",
+          "B": "Korrupsiyaviy xavf-xatarlarni erta aniqlash, baholash va oldini olish (profilaktika)",
+          "C": "Faqat buxgalteriya hisobini yuritish",
+          "D": "Kadrlar yig'ish"
+        }
+      }
+    },
+    "answers": {
+      "1": "B",
+      "2": "A",
+      "3": "A",
+      "4": "A",
+      "5": "B",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "A",
+      "20": "B",
+      "21": "B",
+      "22": "A",
+      "23": "A",
+      "24": "A",
+      "25": "B"
+    }
+  },
+  "11": {
+    "questions": {
+      "1": {
+        "text": "Komplayens bo'linmasi qaysi jarayonlarni doimiy monitoring qiladi?",
+        "options": {
+          "A": "Davlat xaridlari, manfaatlar to'qnashuvi va sovg'alar reyestrini",
+          "B": "Faqat xodimlarning tushlik vaqtini",
+          "C": "Ob-havo ma'lumotlarini",
+          "D": "Sport musobaqalarini"
+        }
+      },
+      "2": {
+        "text": "Kontragentlarni (hamkorlarni) shartnoma tuzishdan oldin tekshirish qanday nomlanadi?",
+        "options": {
+          "A": "Due Diligence (tegishli tartibda tekshirish)",
+          "B": "Audit",
+          "C": "Inventarizatsiya",
+          "D": "Reyting baholash"
+        }
+      },
+      "3": {
+        "text": "Komplayens xizmati xodimlari uchun qanday talablar qo'yiladi?",
+        "options": {
+          "A": "Yuksak kasbiy odob-axloq, halollik va tegishli malaka",
+          "B": "Faqat sport tayyorgarligi",
+          "C": "Chet tillarini mukammal bilish",
+          "D": "Tijorat tajribasi"
+        }
+      },
+      "4": {
+        "text": "Mavjud manfaatlar to'qnashuviga amaliy misol qaysi?",
+        "options": {
+          "A": "Xodimning yaqin qarindoshi rahbarlik qiladigan korxona bilan xarid shartnomasi imzolanayotganda xodimning ovoz berishi",
+          "B": "Xodimning bo'sh vaqtida kitob o'qishi",
+          "C": "Xodimning boshqa tumanda yashovchi tanishi",
+          "D": "Soliq inspektorining ishga o'z vaqtida kelishi"
+        }
+      },
+      "5": {
+        "text": "Nepotizm so'zining ma'nosi nima?",
+        "options": {
+          "A": "Qarindosh-urug'chilik / tanish-bilishchilik asosida imtiyozlar berish",
+          "B": "Adolatli tanlov o'tkazish",
+          "C": "Iqtisodiy o'sish",
+          "D": "Ilmiy tadqiqot"
+        }
+      },
+      "6": {
+        "text": "Affillangan shaxslar deganda nima tushuniladi?",
+        "options": {
+          "A": "O'zaro iqtisodiy yoki qarindoshlik aloqalariga ega bo'lgan shaxslar",
+          "B": "Tasodifiy o'tkinchilar",
+          "C": "Chet el fuqarolari",
+          "D": "Faqat bir xil kiyim kiyganlar"
+        }
+      },
+      "7": {
+        "text": "Manfaatlar to'qnashuvini o'z vaqtida bartaraf etmaslik nimaga olib keladi?",
+        "options": {
+          "A": "Intizomiy va boshqa qonuniy javobgarlikka",
+          "B": "Mukofot berilishiga",
+          "C": "Lavozim ko'tarilishiga",
+          "D": "Hech qanday oqibatga yo'q"
+        }
+      },
+      "8": {
+        "text": "Sovg'alar olish va berish bo'yicha davlat xizmatchilariga qanday cheklovlar qo'yilgan?",
+        "options": {
+          "A": "Xizmat mavqei bilan bog'liq holda har qanday sovg'alarni olish qat'iyan taqiqlanadi (ramziy sovg'alar bundan mustasno)",
+          "B": "Istalgan qimmatbaho sovg'ani olish mumkin",
+          "C": "Faqat pul olish taqiqlangan",
+          "D": "Cheklov yo'q"
+        }
+      },
+      "9": {
+        "text": "Davlat xaridlarida \"Qizil bayroqchalar\" (Red flags) nima ma'noni anglatadi?",
+        "options": {
+          "A": "Korrupsiya va qonunbuzarlik xavfini bildiruvchi shubhali belgilar",
+          "B": "Bayram bayroqlari",
+          "C": "Sport musobaqasi belgiilari",
+          "D": "Texnik xatoliklar"
+        }
+      },
+      "10": {
+        "text": "To'g'ridan-to'g'ri shartnomalar tuzishga qachon yo'l qo'yiladi?",
+        "options": {
+          "A": "Faqat qonun, Prezident va Hukumat qarorlarida qat'iy belgilangan istisno holatlarda",
+          "B": "Xodimning xohishiga ko'ra istalgan vaqtda",
+          "C": "Pul ko'p bo'lganda",
+          "D": "Hech qachon yo'l qo'yilmaydi"
+        }
+      },
+      "11": {
+        "text": "Davlat xaridlarida elektron do'kon qanday tovarlar uchun ishlatiladi?",
+        "options": {
+          "A": "Standartlashtirilgan kundalik tovarlar uchun",
+          "B": "Murakkab binolar qurish uchun",
+          "C": "Aviatsiya texnikasi uchun",
+          "D": "Maxfiy ishlar uchun"
+        }
+      },
+      "12": {
+        "text": "Xarid komissiyasi a'zolari nima qilishlari shart?",
+        "options": {
+          "A": "Ishtirokchilar bilan manfaatlar to'qnashuvi yo'qligi haqida deklaratsiya imzolash",
+          "B": "Ishtirokchilar bilan oldindan kelishish",
+          "C": "Faqat rahbar aytganini qilish",
+          "D": "Ma'lumotlarni yashirish"
+        }
+      },
+      "13": {
+        "text": "Xaridlarni sun'iy ravishda partiyalarga bo'lib yuborishdan maqsad nima bo'ladi?",
+        "options": {
+          "A": "Raqobatli savdolardan (tender/tanlovdan) qochish va to'g'ridan-to'g'ri shartnoma tuzish",
+          "B": "Ishni tezlashtirish",
+          "C": "Sifatni oshirish",
+          "D": "Byudjetni tejash"
+        }
+      },
+      "14": {
+        "text": "Davlat xizmatchilarining ijtimoiy tarmoqlardagi xulq-atvoriga oid talablarga nimalar kiradi?",
+        "options": {
+          "A": "Davlat xizmati nufuziga putur yetkazuvchi, sir saqlanishi kerak bo'lgan ma'lumotlarni tarqatmaslik",
+          "B": "Ijtimoiy tarmoqdan umuman foydalanmaslik",
+          "C": "Faqat shaxsiy suratlar qo'yish",
+          "D": "Siyosiy bahslarda faol qatnashish"
+        }
+      },
+      "15": {
+        "text": "Ochiqlik indeksi nechta ballik tizimda baholanadi va qanday toifalarga bo'linadi?",
+        "options": {
+          "A": "100 ballik tizim, \"Yashil\", \"Sariq\", \"Qizil\" toifalar",
+          "B": "50 ballik, A, B, C",
+          "C": "10 ballik, yaxshi/yomon",
+          "D": "1000 ballik"
+        }
+      },
+      "16": {
+        "text": "Davlat xizmatchisi odob-axloq qoidalariga rioya qilmasa nima bo'ladi?",
+        "options": {
+          "A": "Intizomiy javobgarlikka tortiladi",
+          "B": "Rag'batlantiriladi",
+          "C": "Hech narsa bo'lmaydi",
+          "D": "Ta'til beriladi"
+        }
+      },
+      "17": {
+        "text": "E-Antikorrupsiya axborot tizimining asosiy vazifasi nima?",
+        "options": {
+          "A": "Korrupsiyaga qarshi faoliyatni va xavf-xatarlarni raqamlashtirish hamda monitoring qilish",
+          "B": "O'yin o'ynash",
+          "C": "Musiqa tinglash",
+          "D": "Film ko'rish"
+        }
+      },
+      "18": {
+        "text": "Davlat xizmatchilari uchun \"Halollik vaksinasi\" deganda nima tushuniladi?",
+        "options": {
+          "A": "Xodimlarda korrupsiyaga nisbatan ichki murosasizlik va yuksak axloqiy immunitetni shakllantirish",
+          "B": "Tibbiy emlash",
+          "C": "Soliq to'lash",
+          "D": "Imtihon topshirish"
+        }
+      },
+      "19": {
+        "text": "\"Korrupsiya\" tushunchasining qonunchilikdagi to'g'ri ta'rifini ko'rsating.",
+        "options": {
+          "A": "Mansab mavqeidan shaxsiy manfaat ko'zlab qonunga xilof ravishda foydalanish yoki naf taqdim etish",
+          "B": "Har qanday moliyaviy xato",
+          "C": "Davlat xizmatchisining ishga kech qolishi",
+          "D": "Xizmat hujjatlarini yo'qotib qo'yish"
+        }
+      },
+      "20": {
+        "text": "Quyidagilardan qaysi biri korrupsiyaga qarshi kurashish prinsiplariga kirmaydi?",
+        "options": {
+          "A": "Qonuniylik",
+          "B": "Ochiqlik va shaffoflik",
+          "C": "Maxfiylik va yashirinlik",
+          "D": "Javobgarlikning muqarrarligi"
+        }
+      },
+      "21": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonun qaysi yilda qabul qilingan?",
+        "options": {
+          "A": "2015-yil",
+          "B": "2017-yil 3-yanvar",
+          "C": "2020-yil",
+          "D": "2022-yil"
+        }
+      },
+      "22": {
+        "text": "Korrupsiyaga qarshi kurashish subyektlari faoliyatini kim muvofiqlashtiradi?",
+        "options": {
+          "A": "Korrupsiyaga qarshi kurashish agentligi va maxsus subyektlar",
+          "B": "Faqat soliq idorasi",
+          "C": "Tijorat banklari",
+          "D": "Qurilish vazirligi"
+        }
+      },
+      "23": {
+        "text": "Korrupsiyaga qarshi kurashishda qaysi prinsip ustuvor etib belgilangan?",
+        "options": {
+          "A": "Oldini olishga doir chora-tadbirlar ustuvorligi",
+          "B": "Jazolashning keskinligi",
+          "C": "Faqat jarima solish",
+          "D": "Yashirin tekshiruvlar"
+        }
+      },
+      "24": {
+        "text": "Davlat organlarida komplayens-nazorat bo'linmasi kimga bo'ysunadi va hisobdordir?",
+        "options": {
+          "A": "Bosh buxgalterga",
+          "B": "Bevosita tashkilot rahbariga",
+          "C": "Kasaba uyushmasiga",
+          "D": "Tuman hokimiga"
+        }
+      },
+      "25": {
+        "text": "Komplayens nazoratchi faoliyatining asosiy talablaridan biri nima?",
+        "options": {
+          "A": "Mustaqillik va xolislik",
+          "B": "Tashkilot tijorat faoliyatida qatnashish",
+          "C": "Rahbariyat ko'rsatmasini ko'r-ko'rona bajarish",
+          "D": "Mijozlar bilan shartnoma tuzish"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "A",
+      "20": "C",
+      "21": "B",
+      "22": "A",
+      "23": "A",
+      "24": "B",
+      "25": "A"
+    }
+  },
+  "12": {
+    "questions": {
+      "1": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "2": {
+        "text": "\"Manfaatlar to'qnashuvi to'g'risida\"gi Qonunga ko'ra, manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlikning ustuvorligi",
+          "B": "Manfaatlar to'qnashuvini oshkor qilishning majburiyligi",
+          "C": "Oshkor qilmaslik huquqi",
+          "D": "Faqat rahbarlar uchun amal qilishi"
+        }
+      },
+      "3": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlik mavjud bo'lib, kelgusida xizmat vazifalarini bajarishda xolislikka ta'sir ko'rsatishi mumkin bo'lgan holat",
+          "B": "Sodir bo'lib ulgurgan jinoyat",
+          "C": "Hech qanday aloqasi yo'q holat",
+          "D": "Xodimning ta'tildagi vaqti"
+        }
+      },
+      "4": {
+        "text": "Davlat xizmatchisi manfaatlar to'qnashuvi yuzaga kelganda nima qilishi shart?",
+        "options": {
+          "A": "Darhol bu haqda bevosita rahbariga va komplayens xizmatiga yozma ravishda xabar berish",
+          "B": "Hech kimga aytmasdan ishni davom ettirish",
+          "C": "Ishdan bo'shab ketish",
+          "D": "Masalani yashirish"
+        }
+      },
+      "5": {
+        "text": "Davlat xizmatchisining yaqin qarindoshlari qaysilar?",
+        "options": {
+          "A": "Ota-ona, aka-uka, opa-singil, farzand, er (xotin)",
+          "B": "Faqat qo'shnilar",
+          "C": "Ishdagi hamkasblar",
+          "D": "Barcha tanishlar"
+        }
+      },
+      "6": {
+        "text": "Xodim ishga qabul qilinayotganda yaqin qarindoshlarining bir tizimda ishlashi bo'yicha nima qilishi kerak?",
+        "options": {
+          "A": "Oldindan deklaratsiya taqdim etishi va ogohlantirishi shart",
+          "B": "Hech narsa demasligi kerak",
+          "C": "Faqat og'zaki aytishi kifoya",
+          "D": "Buni yashirishi kerak"
+        }
+      },
+      "7": {
+        "text": "Davlat xaridlarini amalga oshirishda qanday usullarga ustuvorlik beriladi?",
+        "options": {
+          "A": "Raqobatli xarid usullariga (elektron do'kon, auksion, eng yaxshi taklif, tender)",
+          "B": "Faqat bitta tanish ta'minotchi bilan ishlashga",
+          "C": "Og'zaki kelishuvlarga",
+          "D": "Yashirin tenderlarga"
+        }
+      },
+      "8": {
+        "text": "Davlat xaridlari tizimida benefitsiar mulkdorlarni oshkor qilishdan maqsad nima?",
+        "options": {
+          "A": "Haqiqiy egalari va manfaatlar to'qnashuvini aniqlash",
+          "B": "Xaridlarni sekinlashtirish",
+          "C": "Ma'lumotlarni yashirish",
+          "D": "Soliqni kamaytirish"
+        }
+      },
+      "9": {
+        "text": "PF-259-son Farmonga muvofiq davlat xaridlarida raqobatli xaridlar ulushini necha foizga yetkazish belgilangan?",
+        "options": {
+          "A": "90--95% dan ortiq",
+          "B": "50%",
+          "C": "30%",
+          "D": "10%"
+        }
+      },
+      "10": {
+        "text": "Kartel kelishuvlari (narxlarni sun'iy saqlash) davlat xaridlarida nima hisoblanadi?",
+        "options": {
+          "A": "Jiddiy huquqbuzarlik va korrupsiya belgisi",
+          "B": "Oddiy savdo siri",
+          "C": "Rag'batlantiriladigan holat",
+          "D": "Ruxsat etilgan usul"
+        }
+      },
+      "11": {
+        "text": "Davlat xaridlari qaysi maxsus portal orqali amalga oshiriladi?",
+        "options": {
+          "A": "xarid.uzbekistan.uz va maxsus elektron portallar",
+          "B": "Istalganijtimoiy tarmoq",
+          "C": "Faqat pochta orqali",
+          "D": "Telegram kanallar"
+        }
+      },
+      "12": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarni rag'batlantirish qanday amalga oshiriladi?",
+        "options": {
+          "A": "Bir martalik pul mukofoti, tashakkurnoma yoki esdalik sovg'asi bilan",
+          "B": "Faqat og'zaki maqtov bilan",
+          "C": "Rag'batlantirilmaydi",
+          "D": "Jarima solish orqali"
+        }
+      },
+      "13": {
+        "text": "Normativ-huquqiy hujjatlarning korrupsiyaga qarshi ekspertizasining asosiy vazifasi nima?",
+        "options": {
+          "A": "Loyihalardagi korrupsiyaviy omillar (bo'shliqlar, diskretsion vakolatlar)ni aniqlash va bartaraf etish",
+          "B": "Hujjat hajmini qisqartirish",
+          "C": "Imlo xatolarini tekshirish",
+          "D": "Tarjima qilish"
+        }
+      },
+      "14": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "15": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarning huquqlari qanday himoya qilinadi?",
+        "options": {
+          "A": "Qonun bilan davlat muhofazasiga olinadi (anonimlik va xavfsizlik ta'minlanadi)",
+          "B": "Himoya qilinmaydi",
+          "C": "Faqat o'z xohishiga ko'ra",
+          "D": "Ishdan bo'shatiladi"
+        }
+      },
+      "16": {
+        "text": "Korrupsiyaga qarshi kurashish agentligi respublikamizda qachon tashkil etilgan?",
+        "options": {
+          "A": "2020-yilda",
+          "B": "2010-yilda",
+          "C": "2015-yilda",
+          "D": "2024-yilda"
+        }
+      },
+      "17": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonunning asosiy maqsadi nimadan iborat?",
+        "options": {
+          "A": "Faqat jinoiy jazolarni kuchaytirish",
+          "B": "Korrupsiyaga qarshi kurashish sohasidagi munosabatlarni tartibga solish",
+          "C": "Davlat xizmatchilarining ish haqini oshirish",
+          "D": "Byudjet mablag'larini cheklash"
+        }
+      },
+      "18": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplari soni nechta?",
+        "options": {
+          "A": "5 ta",
+          "B": "7 ta",
+          "C": "9 ta",
+          "D": "12 ta"
+        }
+      },
+      "19": {
+        "text": "Korrupsiyaga qarshi kurashish sohasida davlat siyosatining asosiy yo'nalishlaridan biri nima?",
+        "options": {
+          "A": "Aholining huquqiy madaniyatini yuksaltirish va murosasiz muhitni shakllantirish",
+          "B": "Xususiy tadbirkorlikni cheklash",
+          "C": "Barcha soliq stavkalarini bir xil qilish",
+          "D": "Xalqaro savdoni taqiqlash"
+        }
+      },
+      "20": {
+        "text": "Jamiyatda korrupsiyaga nisbatan qanday munosabatni shakllantirish belgilangan?",
+        "options": {
+          "A": "Murosasiz munosabat",
+          "B": "Ijobiy munosabat",
+          "C": "Betaraf munosabat",
+          "D": "Tushunib qarash"
+        }
+      },
+      "21": {
+        "text": "Fuqarolik jamiyati institutlari korrupsiyaga qarshi kurashishda qanday huquqqa ega?",
+        "options": {
+          "A": "Jamoatchilik nazoratini amalga oshirish",
+          "B": "Jinoyatchilarni o'zlari jazolash",
+          "C": "Soliq undirish",
+          "D": "Byudjetni taqsimlash"
+        }
+      },
+      "22": {
+        "text": "Korrupsiyaga qarshi ichki nazorat (komplayens-nazorat) bo'linmasining asosiy maqsadi nima?",
+        "options": {
+          "A": "Xodimlarni jazolash",
+          "B": "Korrupsiyaviy xavf-xatarlarni erta aniqlash, baholash va oldini olish (profilaktika)",
+          "C": "Faqat buxgalteriya hisobini yuritish",
+          "D": "Kadrlar yig'ish"
+        }
+      },
+      "23": {
+        "text": "ISO 37001:2016 xalqaro standarti nima deb ataladi?",
+        "options": {
+          "A": "Axborot xavfsizligi tizimi",
+          "B": "Korrupsiyaga qarshi boshqaruv tizimlari (Anti-bribery management systems)",
+          "C": "Ekologik xavfsizlik standarti",
+          "D": "Sifat menejmenti standarti"
+        }
+      },
+      "24": {
+        "text": "\"Raqamli komplayens\" tizimining asosiy vazifasi nimadan iborat?",
+        "options": {
+          "A": "Barcha jarayonlarni avtomatlashtirilgan holda sun'iy intellekt va Big Data orqali masofaviy tahlil qilish",
+          "B": "Kompyuter o'yinlarini o'ynash",
+          "C": "Internet tezligini oshirish",
+          "D": "Qog'oz hujjatlarni ko'paytirish"
+        }
+      },
+      "25": {
+        "text": "Tashkilotda korrupsiyaga qarshi kurashishda \"Tone at the Top\" (Rahbariyatning o'rnak bo'lishi) nimani anglatadi?",
+        "options": {
+          "A": "Rahbarning shaxsan o'zi qonun va halollik standartlariga qat'iy rioya etishi",
+          "B": "Rahbarning ishga kech kelishi",
+          "C": "Rahbarning ko'rsatma bermasligi",
+          "D": "Faqat buyruq chiqarishi"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "B",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "B",
+      "18": "B",
+      "19": "A",
+      "20": "A",
+      "21": "A",
+      "22": "B",
+      "23": "B",
+      "24": "A",
+      "25": "A"
+    }
+  },
+  "13": {
+    "questions": {
+      "1": {
+        "text": "Mavjud manfaatlar to'qnashuviga amaliy misol qaysi?",
+        "options": {
+          "A": "Xodimning yaqin qarindoshi rahbarlik qiladigan korxona bilan xarid shartnomasi imzolanayotganda xodimning ovoz berishi",
+          "B": "Xodimning bo'sh vaqtida kitob o'qishi",
+          "C": "Xodimning boshqa tumanda yashovchi tanishi",
+          "D": "Soliq inspektorining ishga o'z vaqtida kelishi"
+        }
+      },
+      "2": {
+        "text": "Nepotizm so'zining ma'nosi nima?",
+        "options": {
+          "A": "Qarindosh-urug'chilik / tanish-bilishchilik asosida imtiyozlar berish",
+          "B": "Adolatli tanlov o'tkazish",
+          "C": "Iqtisodiy o'sish",
+          "D": "Ilmiy tadqiqot"
+        }
+      },
+      "3": {
+        "text": "Affillangan shaxslar deganda nima tushuniladi?",
+        "options": {
+          "A": "O'zaro iqtisodiy yoki qarindoshlik aloqalariga ega bo'lgan shaxslar",
+          "B": "Tasodifiy o'tkinchilar",
+          "C": "Chet el fuqarolari",
+          "D": "Faqat bir xil kiyim kiyganlar"
+        }
+      },
+      "4": {
+        "text": "Manfaatlar to'qnashuvini o'z vaqtida bartaraf etmaslik nimaga olib keladi?",
+        "options": {
+          "A": "Intizomiy va boshqa qonuniy javobgarlikka",
+          "B": "Mukofot berilishiga",
+          "C": "Lavozim ko'tarilishiga",
+          "D": "Hech qanday oqibatga yo'q"
+        }
+      },
+      "5": {
+        "text": "Sovg'alar olish va berish bo'yicha davlat xizmatchilariga qanday cheklovlar qo'yilgan?",
+        "options": {
+          "A": "Xizmat mavqei bilan bog'liq holda har qanday sovg'alarni olish qat'iyan taqiqlanadi (ramziy sovg'alar bundan mustasno)",
+          "B": "Istalgan qimmatbaho sovg'ani olish mumkin",
+          "C": "Faqat pul olish taqiqlangan",
+          "D": "Cheklov yo'q"
+        }
+      },
+      "6": {
+        "text": "Davlat xaridlarida \"Qizil bayroqchalar\" (Red flags) nima ma'noni anglatadi?",
+        "options": {
+          "A": "Korrupsiya va qonunbuzarlik xavfini bildiruvchi shubhali belgilar",
+          "B": "Bayram bayroqlari",
+          "C": "Sport musobaqasi belgiilari",
+          "D": "Texnik xatoliklar"
+        }
+      },
+      "7": {
+        "text": "To'g'ridan-to'g'ri shartnomalar tuzishga qachon yo'l qo'yiladi?",
+        "options": {
+          "A": "Faqat qonun, Prezident va Hukumat qarorlarida qat'iy belgilangan istisno holatlarda",
+          "B": "Xodimning xohishiga ko'ra istalgan vaqtda",
+          "C": "Pul ko'p bo'lganda",
+          "D": "Hech qachon yo'l qo'yilmaydi"
+        }
+      },
+      "8": {
+        "text": "Davlat xaridlarida elektron do'kon qanday tovarlar uchun ishlatiladi?",
+        "options": {
+          "A": "Standartlashtirilgan kundalik tovarlar uchun",
+          "B": "Murakkab binolar qurish uchun",
+          "C": "Aviatsiya texnikasi uchun",
+          "D": "Maxfiy ishlar uchun"
+        }
+      },
+      "9": {
+        "text": "Xarid komissiyasi a'zolari nima qilishlari shart?",
+        "options": {
+          "A": "Ishtirokchilar bilan manfaatlar to'qnashuvi yo'qligi haqida deklaratsiya imzolash",
+          "B": "Ishtirokchilar bilan oldindan kelishish",
+          "C": "Faqat rahbar aytganini qilish",
+          "D": "Ma'lumotlarni yashirish"
+        }
+      },
+      "10": {
+        "text": "Xaridlarni sun'iy ravishda partiyalarga bo'lib yuborishdan maqsad nima bo'ladi?",
+        "options": {
+          "A": "Raqobatli savdolardan (tender/tanlovdan) qochish va to'g'ridan-to'g'ri shartnoma tuzish",
+          "B": "Ishni tezlashtirish",
+          "C": "Sifatni oshirish",
+          "D": "Byudjetni tejash"
+        }
+      },
+      "11": {
+        "text": "Davlat xizmatchilarining ijtimoiy tarmoqlardagi xulq-atvoriga oid talablarga nimalar kiradi?",
+        "options": {
+          "A": "Davlat xizmati nufuziga putur yetkazuvchi, sir saqlanishi kerak bo'lgan ma'lumotlarni tarqatmaslik",
+          "B": "Ijtimoiy tarmoqdan umuman foydalanmaslik",
+          "C": "Faqat shaxsiy suratlar qo'yish",
+          "D": "Siyosiy bahslarda faol qatnashish"
+        }
+      },
+      "12": {
+        "text": "Ochiqlik indeksi nechta ballik tizimda baholanadi va qanday toifalarga bo'linadi?",
+        "options": {
+          "A": "100 ballik tizim, \"Yashil\", \"Sariq\", \"Qizil\" toifalar",
+          "B": "50 ballik, A, B, C",
+          "C": "10 ballik, yaxshi/yomon",
+          "D": "1000 ballik"
+        }
+      },
+      "13": {
+        "text": "Davlat xizmatchisi odob-axloq qoidalariga rioya qilmasa nima bo'ladi?",
+        "options": {
+          "A": "Intizomiy javobgarlikka tortiladi",
+          "B": "Rag'batlantiriladi",
+          "C": "Hech narsa bo'lmaydi",
+          "D": "Ta'til beriladi"
+        }
+      },
+      "14": {
+        "text": "E-Antikorrupsiya axborot tizimining asosiy vazifasi nima?",
+        "options": {
+          "A": "Korrupsiyaga qarshi faoliyatni va xavf-xatarlarni raqamlashtirish hamda monitoring qilish",
+          "B": "O'yin o'ynash",
+          "C": "Musiqa tinglash",
+          "D": "Film ko'rish"
+        }
+      },
+      "15": {
+        "text": "Davlat xizmatchilari uchun \"Halollik vaksinasi\" deganda nima tushuniladi?",
+        "options": {
+          "A": "Xodimlarda korrupsiyaga nisbatan ichki murosasizlik va yuksak axloqiy immunitetni shakllantirish",
+          "B": "Tibbiy emlash",
+          "C": "Soliq to'lash",
+          "D": "Imtihon topshirish"
+        }
+      },
+      "16": {
+        "text": "\"Korrupsiya\" tushunchasining qonunchilikdagi to'g'ri ta'rifini ko'rsating.",
+        "options": {
+          "A": "Mansab mavqeidan shaxsiy manfaat ko'zlab qonunga xilof ravishda foydalanish yoki naf taqdim etish",
+          "B": "Har qanday moliyaviy xato",
+          "C": "Davlat xizmatchisining ishga kech qolishi",
+          "D": "Xizmat hujjatlarini yo'qotib qo'yish"
+        }
+      },
+      "17": {
+        "text": "Quyidagilardan qaysi biri korrupsiyaga qarshi kurashish prinsiplariga kirmaydi?",
+        "options": {
+          "A": "Qonuniylik",
+          "B": "Ochiqlik va shaffoflik",
+          "C": "Maxfiylik va yashirinlik",
+          "D": "Javobgarlikning muqarrarligi"
+        }
+      },
+      "18": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonun qaysi yilda qabul qilingan?",
+        "options": {
+          "A": "2015-yil",
+          "B": "2017-yil 3-yanvar",
+          "C": "2020-yil",
+          "D": "2022-yil"
+        }
+      },
+      "19": {
+        "text": "Korrupsiyaga qarshi kurashish subyektlari faoliyatini kim muvofiqlashtiradi?",
+        "options": {
+          "A": "Korrupsiyaga qarshi kurashish agentligi va maxsus subyektlar",
+          "B": "Faqat soliq idorasi",
+          "C": "Tijorat banklari",
+          "D": "Qurilish vazirligi"
+        }
+      },
+      "20": {
+        "text": "Korrupsiyaga qarshi kurashishda qaysi prinsip ustuvor etib belgilangan?",
+        "options": {
+          "A": "Oldini olishga doir chora-tadbirlar ustuvorligi",
+          "B": "Jazolashning keskinligi",
+          "C": "Faqat jarima solish",
+          "D": "Yashirin tekshiruvlar"
+        }
+      },
+      "21": {
+        "text": "Davlat organlarida komplayens-nazorat bo'linmasi kimga bo'ysunadi va hisobdordir?",
+        "options": {
+          "A": "Bosh buxgalterga",
+          "B": "Bevosita tashkilot rahbariga",
+          "C": "Kasaba uyushmasiga",
+          "D": "Tuman hokimiga"
+        }
+      },
+      "22": {
+        "text": "Komplayens nazoratchi faoliyatining asosiy talablaridan biri nima?",
+        "options": {
+          "A": "Mustaqillik va xolislik",
+          "B": "Tashkilot tijorat faoliyatida qatnashish",
+          "C": "Rahbariyat ko'rsatmasini ko'r-ko'rona bajarish",
+          "D": "Mijozlar bilan shartnoma tuzish"
+        }
+      },
+      "23": {
+        "text": "Komplayens bo'linmasi qaysi jarayonlarni doimiy monitoring qiladi?",
+        "options": {
+          "A": "Davlat xaridlari, manfaatlar to'qnashuvi va sovg'alar reyestrini",
+          "B": "Faqat xodimlarning tushlik vaqtini",
+          "C": "Ob-havo ma'lumotlarini",
+          "D": "Sport musobaqalarini"
+        }
+      },
+      "24": {
+        "text": "Kontragentlarni (hamkorlarni) shartnoma tuzishdan oldin tekshirish qanday nomlanadi?",
+        "options": {
+          "A": "Due Diligence (tegishli tartibda tekshirish)",
+          "B": "Audit",
+          "C": "Inventarizatsiya",
+          "D": "Reyting baholash"
+        }
+      },
+      "25": {
+        "text": "Komplayens xizmati xodimlari uchun qanday talablar qo'yiladi?",
+        "options": {
+          "A": "Yuksak kasbiy odob-axloq, halollik va tegishli malaka",
+          "B": "Faqat sport tayyorgarligi",
+          "C": "Chet tillarini mukammal bilish",
+          "D": "Tijorat tajribasi"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "A",
+      "15": "A",
+      "16": "A",
+      "17": "C",
+      "18": "B",
+      "19": "A",
+      "20": "A",
+      "21": "B",
+      "22": "A",
+      "23": "A",
+      "24": "A",
+      "25": "A"
+    }
+  },
+  "14": {
+    "questions": {
+      "1": {
+        "text": "Davlat xizmatchisi manfaatlar to'qnashuvi yuzaga kelganda nima qilishi shart?",
+        "options": {
+          "A": "Darhol bu haqda bevosita rahbariga va komplayens xizmatiga yozma ravishda xabar berish",
+          "B": "Hech kimga aytmasdan ishni davom ettirish",
+          "C": "Ishdan bo'shab ketish",
+          "D": "Masalani yashirish"
+        }
+      },
+      "2": {
+        "text": "Davlat xizmatchisining yaqin qarindoshlari qaysilar?",
+        "options": {
+          "A": "Ota-ona, aka-uka, opa-singil, farzand, er (xotin)",
+          "B": "Faqat qo'shnilar",
+          "C": "Ishdagi hamkasblar",
+          "D": "Barcha tanishlar"
+        }
+      },
+      "3": {
+        "text": "Xodim ishga qabul qilinayotganda yaqin qarindoshlarining bir tizimda ishlashi bo'yicha nima qilishi kerak?",
+        "options": {
+          "A": "Oldindan deklaratsiya taqdim etishi va ogohlantirishi shart",
+          "B": "Hech narsa demasligi kerak",
+          "C": "Faqat og'zaki aytishi kifoya",
+          "D": "Buni yashirishi kerak"
+        }
+      },
+      "4": {
+        "text": "Davlat xaridlarini amalga oshirishda qanday usullarga ustuvorlik beriladi?",
+        "options": {
+          "A": "Raqobatli xarid usullariga (elektron do'kon, auksion, eng yaxshi taklif, tender)",
+          "B": "Faqat bitta tanish ta'minotchi bilan ishlashga",
+          "C": "Og'zaki kelishuvlarga",
+          "D": "Yashirin tenderlarga"
+        }
+      },
+      "5": {
+        "text": "Davlat xaridlari tizimida benefitsiar mulkdorlarni oshkor qilishdan maqsad nima?",
+        "options": {
+          "A": "Haqiqiy egalari va manfaatlar to'qnashuvini aniqlash",
+          "B": "Xaridlarni sekinlashtirish",
+          "C": "Ma'lumotlarni yashirish",
+          "D": "Soliqni kamaytirish"
+        }
+      },
+      "6": {
+        "text": "PF-259-son Farmonga muvofiq davlat xaridlarida raqobatli xaridlar ulushini necha foizga yetkazish belgilangan?",
+        "options": {
+          "A": "90--95% dan ortiq",
+          "B": "50%",
+          "C": "30%",
+          "D": "10%"
+        }
+      },
+      "7": {
+        "text": "Kartel kelishuvlari (narxlarni sun'iy saqlash) davlat xaridlarida nima hisoblanadi?",
+        "options": {
+          "A": "Jiddiy huquqbuzarlik va korrupsiya belgisi",
+          "B": "Oddiy savdo siri",
+          "C": "Rag'batlantiriladigan holat",
+          "D": "Ruxsat etilgan usul"
+        }
+      },
+      "8": {
+        "text": "Davlat xaridlari qaysi maxsus portal orqali amalga oshiriladi?",
+        "options": {
+          "A": "xarid.uzbekistan.uz va maxsus elektron portallar",
+          "B": "Istalganijtimoiy tarmoq",
+          "C": "Faqat pochta orqali",
+          "D": "Telegram kanallar"
+        }
+      },
+      "9": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarni rag'batlantirish qanday amalga oshiriladi?",
+        "options": {
+          "A": "Bir martalik pul mukofoti, tashakkurnoma yoki esdalik sovg'asi bilan",
+          "B": "Faqat og'zaki maqtov bilan",
+          "C": "Rag'batlantirilmaydi",
+          "D": "Jarima solish orqali"
+        }
+      },
+      "10": {
+        "text": "Normativ-huquqiy hujjatlarning korrupsiyaga qarshi ekspertizasining asosiy vazifasi nima?",
+        "options": {
+          "A": "Loyihalardagi korrupsiyaviy omillar (bo'shliqlar, diskretsion vakolatlar)ni aniqlash va bartaraf etish",
+          "B": "Hujjat hajmini qisqartirish",
+          "C": "Imlo xatolarini tekshirish",
+          "D": "Tarjima qilish"
+        }
+      },
+      "11": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "12": {
+        "text": "Korrupsiya haqida xabar bergan shaxslarning huquqlari qanday himoya qilinadi?",
+        "options": {
+          "A": "Qonun bilan davlat muhofazasiga olinadi (anonimlik va xavfsizlik ta'minlanadi)",
+          "B": "Himoya qilinmaydi",
+          "C": "Faqat o'z xohishiga ko'ra",
+          "D": "Ishdan bo'shatiladi"
+        }
+      },
+      "13": {
+        "text": "Korrupsiyaga qarshi kurashish agentligi respublikamizda qachon tashkil etilgan?",
+        "options": {
+          "A": "2020-yilda",
+          "B": "2010-yilda",
+          "C": "2015-yilda",
+          "D": "2024-yilda"
+        }
+      },
+      "14": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonunning asosiy maqsadi nimadan iborat?",
+        "options": {
+          "A": "Faqat jinoiy jazolarni kuchaytirish",
+          "B": "Korrupsiyaga qarshi kurashish sohasidagi munosabatlarni tartibga solish",
+          "C": "Davlat xizmatchilarining ish haqini oshirish",
+          "D": "Byudjet mablag'larini cheklash"
+        }
+      },
+      "15": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplari soni nechta?",
+        "options": {
+          "A": "5 ta",
+          "B": "7 ta",
+          "C": "9 ta",
+          "D": "12 ta"
+        }
+      },
+      "16": {
+        "text": "Korrupsiyaga qarshi kurashish sohasida davlat siyosatining asosiy yo'nalishlaridan biri nima?",
+        "options": {
+          "A": "Aholining huquqiy madaniyatini yuksaltirish va murosasiz muhitni shakllantirish",
+          "B": "Xususiy tadbirkorlikni cheklash",
+          "C": "Barcha soliq stavkalarini bir xil qilish",
+          "D": "Xalqaro savdoni taqiqlash"
+        }
+      },
+      "17": {
+        "text": "Jamiyatda korrupsiyaga nisbatan qanday munosabatni shakllantirish belgilangan?",
+        "options": {
+          "A": "Murosasiz munosabat",
+          "B": "Ijobiy munosabat",
+          "C": "Betaraf munosabat",
+          "D": "Tushunib qarash"
+        }
+      },
+      "18": {
+        "text": "Fuqarolik jamiyati institutlari korrupsiyaga qarshi kurashishda qanday huquqqa ega?",
+        "options": {
+          "A": "Jamoatchilik nazoratini amalga oshirish",
+          "B": "Jinoyatchilarni o'zlari jazolash",
+          "C": "Soliq undirish",
+          "D": "Byudjetni taqsimlash"
+        }
+      },
+      "19": {
+        "text": "Korrupsiyaga qarshi ichki nazorat (komplayens-nazorat) bo'linmasining asosiy maqsadi nima?",
+        "options": {
+          "A": "Xodimlarni jazolash",
+          "B": "Korrupsiyaviy xavf-xatarlarni erta aniqlash, baholash va oldini olish (profilaktika)",
+          "C": "Faqat buxgalteriya hisobini yuritish",
+          "D": "Kadrlar yig'ish"
+        }
+      },
+      "20": {
+        "text": "ISO 37001:2016 xalqaro standarti nima deb ataladi?",
+        "options": {
+          "A": "Axborot xavfsizligi tizimi",
+          "B": "Korrupsiyaga qarshi boshqaruv tizimlari (Anti-bribery management systems)",
+          "C": "Ekologik xavfsizlik standarti",
+          "D": "Sifat menejmenti standarti"
+        }
+      },
+      "21": {
+        "text": "\"Raqamli komplayens\" tizimining asosiy vazifasi nimadan iborat?",
+        "options": {
+          "A": "Barcha jarayonlarni avtomatlashtirilgan holda sun'iy intellekt va Big Data orqali masofaviy tahlil qilish",
+          "B": "Kompyuter o'yinlarini o'ynash",
+          "C": "Internet tezligini oshirish",
+          "D": "Qog'oz hujjatlarni ko'paytirish"
+        }
+      },
+      "22": {
+        "text": "Tashkilotda korrupsiyaga qarshi kurashishda \"Tone at the Top\" (Rahbariyatning o'rnak bo'lishi) nimani anglatadi?",
+        "options": {
+          "A": "Rahbarning shaxsan o'zi qonun va halollik standartlariga qat'iy rioya etishi",
+          "B": "Rahbarning ishga kech kelishi",
+          "C": "Rahbarning ko'rsatma bermasligi",
+          "D": "Faqat buyruq chiqarishi"
+        }
+      },
+      "23": {
+        "text": "Korrupsiyaviy xavf-xatarlar xaritasi qanday tuziladi?",
+        "options": {
+          "A": "Tashkilot funksiyalari xatlovdan o'tkazilib, xavflar past, o'rta, yuqori darajalarga bo'lib baholanadi",
+          "B": "Tasodifiy tarzda",
+          "C": "Faqat rahbarning qarori bilan",
+          "D": "Buxgalteriya hisoboti asosida"
+        }
+      },
+      "24": {
+        "text": "\"Manfaatlar to'qnashuvi to'g'risida\"gi Qonunga ko'ra, manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlikning ustuvorligi",
+          "B": "Manfaatlar to'qnashuvini oshkor qilishning majburiyligi",
+          "C": "Oshkor qilmaslik huquqi",
+          "D": "Faqat rahbarlar uchun amal qilishi"
+        }
+      },
+      "25": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Shaxsiy manfaatdorlik mavjud bo'lib, kelgusida xizmat vazifalarini bajarishda xolislikka ta'sir ko'rsatishi mumkin bo'lgan holat",
+          "B": "Sodir bo'lib ulgurgan jinoyat",
+          "C": "Hech qanday aloqasi yo'q holat",
+          "D": "Xodimning ta'tildagi vaqti"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "B",
+      "15": "B",
+      "16": "A",
+      "17": "A",
+      "18": "A",
+      "19": "B",
+      "20": "B",
+      "21": "A",
+      "22": "A",
+      "23": "A",
+      "24": "B",
+      "25": "A"
+    }
+  },
+  "15": {
+    "questions": {
+      "1": {
+        "text": "Manfaatlar to'qnashuvini o'z vaqtida bartaraf etmaslik nimaga olib keladi?",
+        "options": {
+          "A": "Intizomiy va boshqa qonuniy javobgarlikka",
+          "B": "Mukofot berilishiga",
+          "C": "Lavozim ko'tarilishiga",
+          "D": "Hech qanday oqibatga yo'q"
+        }
+      },
+      "2": {
+        "text": "Sovg'alar olish va berish bo'yicha davlat xizmatchilariga qanday cheklovlar qo'yilgan?",
+        "options": {
+          "A": "Xizmat mavqei bilan bog'liq holda har qanday sovg'alarni olish qat'iyan taqiqlanadi (ramziy sovg'alar bundan mustasno)",
+          "B": "Istalgan qimmatbaho sovg'ani olish mumkin",
+          "C": "Faqat pul olish taqiqlangan",
+          "D": "Cheklov yo'q"
+        }
+      },
+      "3": {
+        "text": "Davlat xaridlarida \"Qizil bayroqchalar\" (Red flags) nima ma'noni anglatadi?",
+        "options": {
+          "A": "Korrupsiya va qonunbuzarlik xavfini bildiruvchi shubhali belgilar",
+          "B": "Bayram bayroqlari",
+          "C": "Sport musobaqasi belgiilari",
+          "D": "Texnik xatoliklar"
+        }
+      },
+      "4": {
+        "text": "To'g'ridan-to'g'ri shartnomalar tuzishga qachon yo'l qo'yiladi?",
+        "options": {
+          "A": "Faqat qonun, Prezident va Hukumat qarorlarida qat'iy belgilangan istisno holatlarda",
+          "B": "Xodimning xohishiga ko'ra istalgan vaqtda",
+          "C": "Pul ko'p bo'lganda",
+          "D": "Hech qachon yo'l qo'yilmaydi"
+        }
+      },
+      "5": {
+        "text": "Davlat xaridlarida elektron do'kon qanday tovarlar uchun ishlatiladi?",
+        "options": {
+          "A": "Standartlashtirilgan kundalik tovarlar uchun",
+          "B": "Murakkab binolar qurish uchun",
+          "C": "Aviatsiya texnikasi uchun",
+          "D": "Maxfiy ishlar uchun"
+        }
+      },
+      "6": {
+        "text": "Xarid komissiyasi a'zolari nima qilishlari shart?",
+        "options": {
+          "A": "Ishtirokchilar bilan manfaatlar to'qnashuvi yo'qligi haqida deklaratsiya imzolash",
+          "B": "Ishtirokchilar bilan oldindan kelishish",
+          "C": "Faqat rahbar aytganini qilish",
+          "D": "Ma'lumotlarni yashirish"
+        }
+      },
+      "7": {
+        "text": "Xaridlarni sun'iy ravishda partiyalarga bo'lib yuborishdan maqsad nima bo'ladi?",
+        "options": {
+          "A": "Raqobatli savdolardan (tender/tanlovdan) qochish va to'g'ridan-to'g'ri shartnoma tuzish",
+          "B": "Ishni tezlashtirish",
+          "C": "Sifatni oshirish",
+          "D": "Byudjetni tejash"
+        }
+      },
+      "8": {
+        "text": "Davlat xizmatchilarining ijtimoiy tarmoqlardagi xulq-atvoriga oid talablarga nimalar kiradi?",
+        "options": {
+          "A": "Davlat xizmati nufuziga putur yetkazuvchi, sir saqlanishi kerak bo'lgan ma'lumotlarni tarqatmaslik",
+          "B": "Ijtimoiy tarmoqdan umuman foydalanmaslik",
+          "C": "Faqat shaxsiy suratlar qo'yish",
+          "D": "Siyosiy bahslarda faol qatnashish"
+        }
+      },
+      "9": {
+        "text": "Ochiqlik indeksi nechta ballik tizimda baholanadi va qanday toifalarga bo'linadi?",
+        "options": {
+          "A": "100 ballik tizim, \"Yashil\", \"Sariq\", \"Qizil\" toifalar",
+          "B": "50 ballik, A, B, C",
+          "C": "10 ballik, yaxshi/yomon",
+          "D": "1000 ballik"
+        }
+      },
+      "10": {
+        "text": "Davlat xizmatchisi odob-axloq qoidalariga rioya qilmasa nima bo'ladi?",
+        "options": {
+          "A": "Intizomiy javobgarlikka tortiladi",
+          "B": "Rag'batlantiriladi",
+          "C": "Hech narsa bo'lmaydi",
+          "D": "Ta'til beriladi"
+        }
+      },
+      "11": {
+        "text": "E-Antikorrupsiya axborot tizimining asosiy vazifasi nima?",
+        "options": {
+          "A": "Korrupsiyaga qarshi faoliyatni va xavf-xatarlarni raqamlashtirish hamda monitoring qilish",
+          "B": "O'yin o'ynash",
+          "C": "Musiqa tinglash",
+          "D": "Film ko'rish"
+        }
+      },
+      "12": {
+        "text": "Davlat xizmatchilari uchun \"Halollik vaksinasi\" deganda nima tushuniladi?",
+        "options": {
+          "A": "Xodimlarda korrupsiyaga nisbatan ichki murosasizlik va yuksak axloqiy immunitetni shakllantirish",
+          "B": "Tibbiy emlash",
+          "C": "Soliq to'lash",
+          "D": "Imtihon topshirish"
+        }
+      },
+      "13": {
+        "text": "\"Korrupsiya\" tushunchasining qonunchilikdagi to'g'ri ta'rifini ko'rsating.",
+        "options": {
+          "A": "Mansab mavqeidan shaxsiy manfaat ko'zlab qonunga xilof ravishda foydalanish yoki naf taqdim etish",
+          "B": "Har qanday moliyaviy xato",
+          "C": "Davlat xizmatchisining ishga kech qolishi",
+          "D": "Xizmat hujjatlarini yo'qotib qo'yish"
+        }
+      },
+      "14": {
+        "text": "Quyidagilardan qaysi biri korrupsiyaga qarshi kurashish prinsiplariga kirmaydi?",
+        "options": {
+          "A": "Qonuniylik",
+          "B": "Ochiqlik va shaffoflik",
+          "C": "Maxfiylik va yashirinlik",
+          "D": "Javobgarlikning muqarrarligi"
+        }
+      },
+      "15": {
+        "text": "\"Korrupsiyaga qarshi kurashish to'g'risida\"gi Qonun qaysi yilda qabul qilingan?",
+        "options": {
+          "A": "2015-yil",
+          "B": "2017-yil 3-yanvar",
+          "C": "2020-yil",
+          "D": "2022-yil"
+        }
+      },
+      "16": {
+        "text": "Korrupsiyaga qarshi kurashish subyektlari faoliyatini kim muvofiqlashtiradi?",
+        "options": {
+          "A": "Korrupsiyaga qarshi kurashish agentligi va maxsus subyektlar",
+          "B": "Faqat soliq idorasi",
+          "C": "Tijorat banklari",
+          "D": "Qurilish vazirligi"
+        }
+      },
+      "17": {
+        "text": "Korrupsiyaga qarshi kurashishda qaysi prinsip ustuvor etib belgilangan?",
+        "options": {
+          "A": "Oldini olishga doir chora-tadbirlar ustuvorligi",
+          "B": "Jazolashning keskinligi",
+          "C": "Faqat jarima solish",
+          "D": "Yashirin tekshiruvlar"
+        }
+      },
+      "18": {
+        "text": "Davlat organlarida komplayens-nazorat bo'linmasi kimga bo'ysunadi va hisobdordir?",
+        "options": {
+          "A": "Bosh buxgalterga",
+          "B": "Bevosita tashkilot rahbariga",
+          "C": "Kasaba uyushmasiga",
+          "D": "Tuman hokimiga"
+        }
+      },
+      "19": {
+        "text": "Komplayens nazoratchi faoliyatining asosiy talablaridan biri nima?",
+        "options": {
+          "A": "Mustaqillik va xolislik",
+          "B": "Tashkilot tijorat faoliyatida qatnashish",
+          "C": "Rahbariyat ko'rsatmasini ko'r-ko'rona bajarish",
+          "D": "Mijozlar bilan shartnoma tuzish"
+        }
+      },
+      "20": {
+        "text": "Komplayens bo'linmasi qaysi jarayonlarni doimiy monitoring qiladi?",
+        "options": {
+          "A": "Davlat xaridlari, manfaatlar to'qnashuvi va sovg'alar reyestrini",
+          "B": "Faqat xodimlarning tushlik vaqtini",
+          "C": "Ob-havo ma'lumotlarini",
+          "D": "Sport musobaqalarini"
+        }
+      },
+      "21": {
+        "text": "Kontragentlarni (hamkorlarni) shartnoma tuzishdan oldin tekshirish qanday nomlanadi?",
+        "options": {
+          "A": "Due Diligence (tegishli tartibda tekshirish)",
+          "B": "Audit",
+          "C": "Inventarizatsiya",
+          "D": "Reyting baholash"
+        }
+      },
+      "22": {
+        "text": "Komplayens xizmati xodimlari uchun qanday talablar qo'yiladi?",
+        "options": {
+          "A": "Yuksak kasbiy odob-axloq, halollik va tegishli malaka",
+          "B": "Faqat sport tayyorgarligi",
+          "C": "Chet tillarini mukammal bilish",
+          "D": "Tijorat tajribasi"
+        }
+      },
+      "23": {
+        "text": "Mavjud manfaatlar to'qnashuviga amaliy misol qaysi?",
+        "options": {
+          "A": "Xodimning yaqin qarindoshi rahbarlik qiladigan korxona bilan xarid shartnomasi imzolanayotganda xodimning ovoz berishi",
+          "B": "Xodimning bo'sh vaqtida kitob o'qishi",
+          "C": "Xodimning boshqa tumanda yashovchi tanishi",
+          "D": "Soliq inspektorining ishga o'z vaqtida kelishi"
+        }
+      },
+      "24": {
+        "text": "Nepotizm so'zining ma'nosi nima?",
+        "options": {
+          "A": "Qarindosh-urug'chilik / tanish-bilishchilik asosida imtiyozlar berish",
+          "B": "Adolatli tanlov o'tkazish",
+          "C": "Iqtisodiy o'sish",
+          "D": "Ilmiy tadqiqot"
+        }
+      },
+      "25": {
+        "text": "Affillangan shaxslar deganda nima tushuniladi?",
+        "options": {
+          "A": "O'zaro iqtisodiy yoki qarindoshlik aloqalariga ega bo'lgan shaxslar",
+          "B": "Tasodifiy o'tkinchilar",
+          "C": "Chet el fuqarolari",
+          "D": "Faqat bir xil kiyim kiyganlar"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "A",
+      "8": "A",
+      "9": "A",
+      "10": "A",
+      "11": "A",
+      "12": "A",
+      "13": "A",
+      "14": "C",
+      "15": "B",
+      "16": "A",
+      "17": "A",
+      "18": "B",
+      "19": "A",
+      "20": "A",
+      "21": "A",
+      "22": "A",
+      "23": "A",
+      "24": "A",
+      "25": "A"
+    }
   }
 }
