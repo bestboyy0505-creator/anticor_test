@@ -1,0 +1,1282 @@
+{
+  "1": {
+    "questions": {
+      "1": {
+        "text": "Yirik investitsiya loyihasida raqobatga ta'sirni baholashda nima tahlil qilinadi?",
+        "options": {
+          "A": "Sun'iy monopoliya, bozorga kirish to'siqlari va kamsituvchi shartlar ehtimoli",
+          "B": "Faqat xizmat safari",
+          "C": "Faqat transport xarajatlari",
+          "D": "Faqat xodimlar soni"
+        }
+      },
+      "2": {
+        "text": "PF-270-son Farmon bilan 2030-yilgacha ustuvor yo'nalishlardan biri sifatida nima belgilangan?",
+        "options": {
+          "A": "Korrupsiyaviy omillarni raqamlashtirish orqali bartaraf etish",
+          "B": "Faqat jarimalarni oshirish",
+          "C": "Davlat xaridlarini faqat qog'oz shaklida yuritish",
+          "D": "Barcha nazoratni bekor qilish"
+        }
+      },
+      "3": {
+        "text": "Komplayens manfaatlar to'qnashuvi bo'yicha nima qilishi kerak?",
+        "options": {
+          "A": "Umuman nazorat qilmaslik",
+          "B": "Faqat rahbarning qarorini kutish",
+          "C": "Deklaratsiyalarni yig'ish, tahlil qilish va to'qnashuvni bartaraf etishga ko'maklashish",
+          "D": "Deklaratsiyalarni yo'q qilish"
+        }
+      },
+      "4": {
+        "text": "Ochiqlik indeksida 55--79 ball qanday toifaga kiradi?",
+        "options": {
+          "A": "Oq",
+          "B": "Qizil",
+          "C": "Yashil",
+          "D": "Sariq"
+        }
+      },
+      "5": {
+        "text": "Ochiqlik indeksida 55 balldan past natija qanday toifa?",
+        "options": {
+          "A": "Qizil",
+          "B": "Ko'k",
+          "C": "Sariq",
+          "D": "Yashil"
+        }
+      },
+      "6": {
+        "text": "Manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Xodimga imtiyoz berish",
+          "B": "Yashirinlik",
+          "C": "Faqat og'zaki xabar berish",
+          "D": "Shaffoflik va ochiqlik"
+        }
+      },
+      "7": {
+        "text": "PF-270 doirasida davlat xaridlari va investitsiya jarayonlarida qanday yondashuv ko'zda tutilgan?",
+        "options": {
+          "A": "Yagona yetkazib beruvchini majburiy qilish",
+          "B": "Shaffoflik va raqobatni ta'minlash",
+          "C": "Yopiq kelishuvlarni kengaytirish",
+          "D": "Jamoatchilik ishtirokini cheklash"
+        }
+      },
+      "8": {
+        "text": "PF-259 doirasida davlat xaridlarini elektron shaklga o'tkazish bo'yicha qanday maqsad ko'rsatilgan?",
+        "options": {
+          "A": "Faqat yirik xaridlarni",
+          "B": "75 foiz",
+          "C": "50 foiz",
+          "D": "100 foiz to'liq elektron formatga o'tkazish"
+        }
+      },
+      "9": {
+        "text": "Raqamli komplayensda qaysi jarayon avtomatlashtirilishi mumkin?",
+        "options": {
+          "A": "Faqat ish haqi to'lash",
+          "B": "Xavf-xatarlarni baholash va manfaatlar to'qnashuvini monitoring qilish",
+          "C": "Faqat arxiv yuritish",
+          "D": "Faqat xodimlarning davomatini hisoblash"
+        }
+      },
+      "10": {
+        "text": "Ochiqlik indeksida 80--100 ball qanday toifaga kiradi?",
+        "options": {
+          "A": "Qizil",
+          "B": "Ko'k",
+          "C": "Yashil",
+          "D": "Sariq"
+        }
+      },
+      "11": {
+        "text": "Korrupsiyaga moyil munosabatlar elektron reyestriga avvalo qanday funksiyalar aniqlanadi?",
+        "options": {
+          "A": "Faqat xo'jalik ishlari",
+          "B": "Faqat arxiv funksiyalari",
+          "C": "Faqat xizmat safari",
+          "D": "Fuqarolar bilan bevosita muloqot, resurslarni taqsimlash, ruxsat va litsenziyalash bilan bog'liq funksiyalar"
+        }
+      },
+      "12": {
+        "text": "Elektron do'kon qaysi turdagi xaridlar uchun ko'rsatilgan?",
+        "options": {
+          "A": "Standartlashtirilgan tovarlar uchun",
+          "B": "Faqat davlat mulki uchun",
+          "C": "Faqat investitsiya loyihalari uchun",
+          "D": "Faqat murakkab infratuzilma uchun"
+        }
+      },
+      "13": {
+        "text": "Yagona yetkazib beruvchi bilan xaridga misol sifatida nima ko'rsatilgan?",
+        "options": {
+          "A": "Faqat yangi tashkil etilgan korxona",
+          "B": "Tabiiy monopoliya subyekti yoki mualliflik huquqi egasi",
+          "C": "Faqat eng arzon firma",
+          "D": "Istalgan tanish firma"
+        }
+      },
+      "14": {
+        "text": "Korrupsiyaga qarshi reytingda xabarlarni ko'rib chiqish yo'nalishi baholanadimi?",
+        "options": {
+          "A": "Ha",
+          "B": "Faqat ayrim xodimlar uchun",
+          "C": "Faqat yil oxirida",
+          "D": "Yo'q"
+        }
+      },
+      "15": {
+        "text": "Davlat xizmatchisi shaxsiy sahifasida davlat organi nomidan rasmiy munosabat bildira oladimi?",
+        "options": {
+          "A": "Faqat rasmiy vakolati bo'lsa",
+          "B": "Faqat do'stlari uchun",
+          "C": "Har doim mumkin",
+          "D": "Faqat ish vaqtidan tashqari"
+        }
+      },
+      "16": {
+        "text": "Ma'muriy huquqbuzarlik haqida xabar berilganda hujjatda ko'rsatilgan rag'bat miqdori qancha?",
+        "options": {
+          "A": "BHMning 2 baravari",
+          "B": "BHMning 15 baravari",
+          "C": "BHMning 10 baravari",
+          "D": "BHMning 3 baravari"
+        }
+      },
+      "17": {
+        "text": "Davlat xizmatchisi ijtimoiy tarmoqda xizmat axborotini tarqatishi mumkinmi?",
+        "options": {
+          "A": "Yo'q, xizmat axborotlarini oshkor qilmasligi kerak",
+          "B": "Faqat anonim akkauntdan mumkin",
+          "C": "Ha, har doim mumkin",
+          "D": "Faqat dam olish kunlari mumkin"
+        }
+      },
+      "18": {
+        "text": "Korrupsiyaga qarshi kurashish samaradorligi reytingi nechta asosiy yo'nalishda baholanishi ko'rsatilgan?",
+        "options": {
+          "A": "3 ta",
+          "B": "5 ta",
+          "C": "10 ta",
+          "D": "7 ta"
+        }
+      },
+      "19": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Faqat pora olingan holat",
+          "B": "Hozircha to'qnashuv yuz bermagan, ammo kelgusida yuzaga kelishi mumkin bo'lgan vaziyat",
+          "C": "Faqat sud ishi",
+          "D": "Allaqachon huquqbuzarlik sodir etilgan vaziyat"
+        }
+      },
+      "20": {
+        "text": "Ichki nazorat bo'linmasi tashkilotning boshqa bo'linmalaridan axborot olish bo'yicha qanday huquqqa ega?",
+        "options": {
+          "A": "Umuman huquqi yo'q",
+          "B": "Faqat og'zaki ma'lumot olish huquqiga ega",
+          "C": "Faqat yil yakunida olish huquqiga ega",
+          "D": "Zarur hujjat va axborotni to'siqsiz olish huquqiga ega"
+        }
+      },
+      "21": {
+        "text": "Vositachi poradan shaxsan naf ko'rmasa ham javobgar bo'lishi mumkinmi?",
+        "options": {
+          "A": "Ha",
+          "B": "Faqat davlat xizmatchisi bo'lsa",
+          "C": "Faqat rahbar ruxsat bersa",
+          "D": "Yo'q"
+        }
+      },
+      "22": {
+        "text": "Reytingda xodimlarning korrupsiyaga qarshi immuniteti qanday baholanadi?",
+        "options": {
+          "A": "O'qitish, test sinovlari va targ'ibot orqali",
+          "B": "Faqat xizmat staji orqali",
+          "C": "Faqat lavozimi orqali",
+          "D": "Faqat davomat orqali"
+        }
+      },
+      "23": {
+        "text": "Mavjud manfaatlar to'qnashuvi nimani anglatadi?",
+        "options": {
+          "A": "Faqat kelajakda yuz berishi mumkin bo'lgan vaziyatni",
+          "B": "Qarama-qarshilik real ravishda yuzaga kelgan vaziyatni",
+          "C": "Faqat jinoyat sodir etilganini",
+          "D": "Har qanday shaxsiy fikrni"
+        }
+      },
+      "24": {
+        "text": "Davlat siyosatining korrupsiyaga qarshi asosiy yo'nalishlaridan biri qaysi?",
+        "options": {
+          "A": "Nazoratni bekor qilish",
+          "B": "Aholining huquqiy ongi va huquqiy madaniyatini yuksaltirish",
+          "C": "Faqat ichki hujjatlarni ko'paytirish",
+          "D": "Davlat xaridlarini yopiq o'tkazish"
+        }
+      },
+      "25": {
+        "text": "Fuqarolik jamiyati institutlarining korrupsiyaga qarshi ishtiroki qaysi shaklda bo'lishi mumkin?",
+        "options": {
+          "A": "Sud qarorlarini bekor qilish",
+          "B": "Jamoatchilik nazorati va jamoatchilik muhokamasida ishtirok etish",
+          "C": "Faqat davlat xodimlarini tayinlash",
+          "D": "Davlat xaridlarini mustaqil tasdiqlash"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "A",
+      "3": "C",
+      "4": "D",
+      "5": "A",
+      "6": "D",
+      "7": "B",
+      "8": "D",
+      "9": "B",
+      "10": "C",
+      "11": "D",
+      "12": "A",
+      "13": "B",
+      "14": "A",
+      "15": "A",
+      "16": "D",
+      "17": "A",
+      "18": "B",
+      "19": "B",
+      "20": "D",
+      "21": "A",
+      "22": "A",
+      "23": "B",
+      "24": "B",
+      "25": "B"
+    }
+  },
+  "2": {
+    "questions": {
+      "1": {
+        "text": "Davlat xizmatchisi shaxsiy sahifasida davlat organi nomidan rasmiy munosabat bildira oladimi?",
+        "options": {
+          "A": "Faqat do'stlari uchun",
+          "B": "Faqat ish vaqtidan tashqari",
+          "C": "Har doim mumkin",
+          "D": "Faqat rasmiy vakolati bo'lsa"
+        }
+      },
+      "2": {
+        "text": "Normativ hujjatlarning korrupsiyaga qarshi ekspertizasi qanday xususiyatga ega?",
+        "options": {
+          "A": "Faqat texnik",
+          "B": "Profilaktik xususiyatga ega",
+          "C": "Faqat jazolovchi",
+          "D": "Faqat statistik"
+        }
+      },
+      "3": {
+        "text": "Raqamli komplayensda qaysi jarayon avtomatlashtirilishi mumkin?",
+        "options": {
+          "A": "Faqat arxiv yuritish",
+          "B": "Faqat xodimlarning davomatini hisoblash",
+          "C": "Xavf-xatarlarni baholash va manfaatlar to'qnashuvini monitoring qilish",
+          "D": "Faqat ish haqi to'lash"
+        }
+      },
+      "4": {
+        "text": "PF-270 doirasida davlat xaridlari va investitsiya jarayonlarida qanday yondashuv ko'zda tutilgan?",
+        "options": {
+          "A": "Jamoatchilik ishtirokini cheklash",
+          "B": "Yopiq kelishuvlarni kengaytirish",
+          "C": "Shaffoflik va raqobatni ta'minlash",
+          "D": "Yagona yetkazib beruvchini majburiy qilish"
+        }
+      },
+      "5": {
+        "text": "To'g'ridan-to'g'ri shartnoma qachon qo'llanishi mumkinligi hujjatda qanday izohlangan?",
+        "options": {
+          "A": "Faqat og'zaki topshiriq bilan",
+          "B": "Har qanday xodim xohishiga ko'ra",
+          "C": "Har qanday kichik xaridda",
+          "D": "Qonun, Prezident yoki Hukumat hujjatlarida belgilangan holatlarda"
+        }
+      },
+      "6": {
+        "text": "Yirik investitsiya loyihasida raqobatga ta'sirni baholashda nima tahlil qilinadi?",
+        "options": {
+          "A": "Sun'iy monopoliya, bozorga kirish to'siqlari va kamsituvchi shartlar ehtimoli",
+          "B": "Faqat xizmat safari",
+          "C": "Faqat xodimlar soni",
+          "D": "Faqat transport xarajatlari"
+        }
+      },
+      "7": {
+        "text": "PF-259-son Farmonda 2030-yilgacha raqobatli davlat xaridlari ulushiga qanday maqsad ko'rsatilgan?",
+        "options": {
+          "A": "60 foiz",
+          "B": "70 foiz",
+          "C": "90--95 foizdan ortiq",
+          "D": "50 foiz"
+        }
+      },
+      "8": {
+        "text": "Komplayens qaysi jarayonlarni doimiy monitoring qilishi ko'rsatilgan?",
+        "options": {
+          "A": "Davlat xaridlari, moddiy boyliklarni hisobdan chiqarish va ishga qabul qilish",
+          "B": "Faqat xodimlarning ta'tilini",
+          "C": "Faqat xizmat avtomobillarini",
+          "D": "Faqat arxivni"
+        }
+      },
+      "9": {
+        "text": "Komplayens qanday aloqa kanallarining uzluksiz ishlashini ta'minlashi kerak?",
+        "options": {
+          "A": "Faqat telefon daftari",
+          "B": "Faqat yig'ilish",
+          "C": "Faqat pochta qutisi",
+          "D": "Ishonch telefoni, elektron pochta va tegishli elektron kanallar"
+        }
+      },
+      "10": {
+        "text": "Ichki nazorat bo'linmasining asosiy maqsadi nima?",
+        "options": {
+          "A": "Faqat hujjatlarni ro'yxatga olish",
+          "B": "Korrupsiyaviy xavflarni aniqlash, baholash va ularning oldini olish",
+          "C": "Faqat moliyaviy hisobot tuzish",
+          "D": "Faqat xodimlarni jazolash"
+        }
+      },
+      "11": {
+        "text": "Pora olish-berishda vositachilik nima?",
+        "options": {
+          "A": "Faqat shikoyat yozish",
+          "B": "Pora oluvchi va beruvchi o'rtasida kelishuvga ko'maklashish yoki po­rani bevosita topshirish",
+          "C": "Faqat porani rad etish",
+          "D": "Faqat guvoh bo'lish"
+        }
+      },
+      "12": {
+        "text": "Komplayensning profilaktik choralaridan biri qaysi?",
+        "options": {
+          "A": "Faqat og'zaki kelishish",
+          "B": "Shartnomani yashirish",
+          "C": "Kontragentlarni tekshirmaslik",
+          "D": "Kontragentlarni shartnoma tuzishdan oldin Due Diligence tekshiruvidan o'tkazish"
+        }
+      },
+      "13": {
+        "text": "Ma'muriy huquqbuzarlik haqida xabar berilganda hujjatda ko'rsatilgan rag'bat miqdori qancha?",
+        "options": {
+          "A": "BHMning 2 baravari",
+          "B": "BHMning 3 baravari",
+          "C": "BHMning 15 baravari",
+          "D": "BHMning 10 baravari"
+        }
+      },
+      "14": {
+        "text": "Korrupsiyaviy xavflar xaritasining amaliy ahamiyati nimada?",
+        "options": {
+          "A": "Faqat arxivni yuritishda",
+          "B": "Profilaktika, audit va nazoratni yuqori xavfli sohalarga yo'naltirishda",
+          "C": "Faqat ish jadvalini tuzishda",
+          "D": "Faqat xodimlarni mukofotlashda"
+        }
+      },
+      "15": {
+        "text": "Korrupsiyaviy xavflar xaritasini shakllantirishning birinchi bosqichi nima?",
+        "options": {
+          "A": "Sudga murojaat qilish",
+          "B": "Xodimlarni ishdan bo'shatish",
+          "C": "Jazo tayinlash",
+          "D": "Funksiyalar inventarizatsiyasi"
+        }
+      },
+      "16": {
+        "text": "PF-259 doirasida davlat xaridlarini elektron shaklga o'tkazish bo'yicha qanday maqsad ko'rsatilgan?",
+        "options": {
+          "A": "50 foiz",
+          "B": "100 foiz to'liq elektron formatga o'tkazish",
+          "C": "Faqat yirik xaridlarni",
+          "D": "75 foiz"
+        }
+      },
+      "17": {
+        "text": "Ichki nazorat bo'linmasi manfaatlar to'qnashuvi bo'yicha nima qiladi?",
+        "options": {
+          "A": "Faqat sudga yuboradi",
+          "B": "Uni erta aniqlash va bartaraf etishga ko'maklashadi",
+          "C": "Uni avtomatik ravishda huquqbuzarlik deb e'lon qiladi",
+          "D": "Uni yashiradi"
+        }
+      },
+      "18": {
+        "text": "Yirik investitsiya loyihasi ekspertizasida nimani tekshirish muhim?",
+        "options": {
+          "A": "Faqat reklama xarajatlarini",
+          "B": "Faqat binoning maydonini",
+          "C": "Loyiha ishtirokchilari, pudratchilar va benefitsiarlarning affillanganligini",
+          "D": "Faqat xodimlarning davomatini"
+        }
+      },
+      "19": {
+        "text": "Reytingning yo'nalishlaridan biri qaysi?",
+        "options": {
+          "A": "Faqat ish haqi miqdori",
+          "B": "Korrupsiyaviy xavflarni aniqlash, baholash va kamaytirish choralari samaradorligi",
+          "C": "Faqat transport vositalari",
+          "D": "Faqat xodimlar soni"
+        }
+      },
+      "20": {
+        "text": "Ehtimoliy manfaatlar to'qnashuvi nima?",
+        "options": {
+          "A": "Hozircha to'qnashuv yuz bermagan, ammo kelgusida yuzaga kelishi mumkin bo'lgan vaziyat",
+          "B": "Allaqachon huquqbuzarlik sodir etilgan vaziyat",
+          "C": "Faqat sud ishi",
+          "D": "Faqat pora olingan holat"
+        }
+      },
+      "21": {
+        "text": "Davlat xaridlarida \"qizil bayroqchalar\" tizimi nimaga xizmat qiladi?",
+        "options": {
+          "A": "Faqat shartnomalarni bekor qilishga",
+          "B": "Faqat narxlarni yashirishga",
+          "C": "Xodimlarning ish vaqtini hisoblashga",
+          "D": "Korrupsiyaviy xavflarni sun'iy intellekt yordamida erta aniqlashga"
+        }
+      },
+      "22": {
+        "text": "Manfaatlar to'qnashuvi aniqlansa, xodimning asosiy vazifasi nima?",
+        "options": {
+          "A": "Qarorni tezlashtirish",
+          "B": "Uni yashirish",
+          "C": "Belgilangan tartibda oshkor qilish va xabar berish",
+          "D": "Hujjatlarni yo'q qilish"
+        }
+      },
+      "23": {
+        "text": "Korrupsiyaga qarshi reytingda xabarlarni ko'rib chiqish yo'nalishi baholanadimi?",
+        "options": {
+          "A": "Ha",
+          "B": "Faqat ayrim xodimlar uchun",
+          "C": "Faqat yil oxirida",
+          "D": "Yo'q"
+        }
+      },
+      "24": {
+        "text": "Manfaatlar to'qnashuvining asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Faqat og'zaki xabar berish",
+          "B": "Yashirinlik",
+          "C": "Shaffoflik va ochiqlik",
+          "D": "Xodimga imtiyoz berish"
+        }
+      },
+      "25": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Imtiyoz berish",
+          "B": "Qonuniylik",
+          "C": "Faqat jazolash",
+          "D": "Yashirinlik"
+        }
+      }
+    },
+    "answers": {
+      "1": "D",
+      "2": "B",
+      "3": "C",
+      "4": "C",
+      "5": "D",
+      "6": "A",
+      "7": "C",
+      "8": "A",
+      "9": "D",
+      "10": "B",
+      "11": "B",
+      "12": "D",
+      "13": "B",
+      "14": "B",
+      "15": "D",
+      "16": "B",
+      "17": "B",
+      "18": "C",
+      "19": "B",
+      "20": "A",
+      "21": "D",
+      "22": "C",
+      "23": "A",
+      "24": "C",
+      "25": "B"
+    }
+  },
+  "3": {
+    "questions": {
+      "1": {
+        "text": "ISO 37001:2016 nimaga bag'ishlangan?",
+        "options": {
+          "A": "Davlat xaridlarining texnik standartlariga",
+          "B": "Mehnat ta'tili qoidalariga",
+          "C": "Yo'l qurilishi standartlariga",
+          "D": "Korrupsiyaga qarshi boshqaruv tizimlariga"
+        }
+      },
+      "2": {
+        "text": "Komplayens qanday aloqa kanallarining uzluksiz ishlashini ta'minlashi kerak?",
+        "options": {
+          "A": "Faqat pochta qutisi",
+          "B": "Faqat yig'ilish",
+          "C": "Ishonch telefoni, elektron pochta va tegishli elektron kanallar",
+          "D": "Faqat telefon daftari"
+        }
+      },
+      "3": {
+        "text": "Davlat xaridlarida haqiqiy benefitsiar mulkdorlarni oshkor qilish nima uchun muhim?",
+        "options": {
+          "A": "Shaffoflik va manfaatdor tomonlarni aniqlash uchun",
+          "B": "Faqat ish haqi hisoblash uchun",
+          "C": "Xaridni yopish uchun",
+          "D": "Faqat reklama uchun"
+        }
+      },
+      "4": {
+        "text": "Yirik investitsiya loyihasi ekspertizasida nimani tekshirish muhim?",
+        "options": {
+          "A": "Loyiha ishtirokchilari, pudratchilar va benefitsiarlarning affillanganligini",
+          "B": "Faqat xodimlarning davomatini",
+          "C": "Faqat reklama xarajatlarini",
+          "D": "Faqat binoning maydonini"
+        }
+      },
+      "5": {
+        "text": "Korrupsiyaviy xavflar xaritasini kim tasdiqlashi ko'rsatilgan?",
+        "options": {
+          "A": "Tashkilot rahbari",
+          "B": "Faqat xarid komissiyasi",
+          "C": "Faqat kadrlar bo'limi",
+          "D": "Faqat bosh hisobchi"
+        }
+      },
+      "6": {
+        "text": "Korrupsiyaga qarshi kurashishning asosiy prinsiplaridan biri qaysi?",
+        "options": {
+          "A": "Qonuniylik",
+          "B": "Imtiyoz berish",
+          "C": "Faqat jazolash",
+          "D": "Yashirinlik"
+        }
+      },
+      "7": {
+        "text": "PF-259-son Farmonda 2030-yilgacha raqobatli davlat xaridlari ulushiga qanday maqsad ko'rsatilgan?",
+        "options": {
+          "A": "70 foiz",
+          "B": "90--95 foizdan ortiq",
+          "C": "50 foiz",
+          "D": "60 foiz"
+        }
+      },
+      "8": {
+        "text": "Ichki nazorat bo'linmasi tashkilotning boshqa bo'linmalaridan axborot olish bo'yicha qanday huquqqa ega?",
+        "options": {
+          "A": "Faqat yil yakunida olish huquqiga ega",
+          "B": "Zarur hujjat va axborotni to'siqsiz olish huquqiga ega",
+          "C": "Faqat og'zaki ma'lumot olish huquqiga ega",
+          "D": "Umuman huquqi yo'q"
+        }
+      },
+      "9": {
+        "text": "Ichki nazorat bo'linmasi qanday tashkiliy shaklda tuzilishi mumkin?",
+        "options": {
+          "A": "Boshqarma, bo'lim, sho'ba yoki alohida komplayens-nazoratchi shtat birligi shaklida",
+          "B": "Faqat komissiya shaklida",
+          "C": "Faqat vazirlik shaklida",
+          "D": "Faqat vaqtinchalik guruh shaklida"
+        }
+      },
+      "10": {
+        "text": "Raqamli komplayensda qaysi jarayon avtomatlashtirilishi mumkin?",
+        "options": {
+          "A": "Xavf-xatarlarni baholash va manfaatlar to'qnashuvini monitoring qilish",
+          "B": "Faqat xodimlarning davomatini hisoblash",
+          "C": "Faqat ish haqi to'lash",
+          "D": "Faqat arxiv yuritish"
+        }
+      },
+      "11": {
+        "text": "O'ta og'ir jinoyat bo'yicha xabar uchun ko'rsatilgan bir martalik mukofot qancha?",
+        "options": {
+          "A": "BHMning 5 baravari",
+          "B": "BHMning 3 baravari",
+          "C": "BHMning 15 baravari",
+          "D": "BHMning 10 baravari"
+        }
+      },
+      "12": {
+        "text": "Reytingda xodimlarning korrupsiyaga qarshi immuniteti qanday baholanadi?",
+        "options": {
+          "A": "Faqat lavozimi orqali",
+          "B": "O'qitish, test sinovlari va targ'ibot orqali",
+          "C": "Faqat xizmat staji orqali",
+          "D": "Faqat davomat orqali"
+        }
+      },
+      "13": {
+        "text": "Davlat siyosatining korrupsiyaga qarshi asosiy yo'nalishlaridan biri qaysi?",
+        "options": {
+          "A": "Nazoratni bekor qilish",
+          "B": "Davlat xaridlarini yopiq o'tkazish",
+          "C": "Aholining huquqiy ongi va huquqiy madaniyatini yuksaltirish",
+          "D": "Faqat ichki hujjatlarni ko'paytirish"
+        }
+      },
+      "14": {
+        "text": "Ekspertiza orqali qanday xavfning oldini olish maqsad qilinadi?",
+        "options": {
+          "A": "Xodimlarning ta'tilga chiqishining",
+          "B": "Mansabdor shaxslarga asossiz keng diskretsion vakolat berilishining",
+          "C": "Arxiv hujjatlari ko'payishining",
+          "D": "Ish vaqtining qisqarishining"
+        }
+      },
+      "15": {
+        "text": "Davlat xizmatchisi xizmat vazifasi bilan bog'liq noqonuniy naf taklif qilinsa nima qilishi kerak?",
+        "options": {
+          "A": "Uni rad etib, rahbariyat va komplayensga xabar berishi",
+          "B": "Qabul qilib, keyin qaytarishi",
+          "C": "Faqat hamkasbiga aytishi",
+          "D": "Hech kimga aytmasligi"
+        }
+      },
+      "16": {
+        "text": "Ochiqlik indeksida 55--79 ball qanday toifaga kiradi?",
+        "options": {
+          "A": "Oq",
+          "B": "Sariq",
+          "C": "Yashil",
+          "D": "Qizil"
+        }
+      },
+      "17": {
+        "text": "Pora olish-berishda vositachilik nima?",
+        "options": {
+          "A": "Faqat shikoyat yozish",
+          "B": "Faqat porani rad etish",
+          "C": "Pora oluvchi va beruvchi o'rtasida kelishuvga ko'maklashish yoki po­rani bevosita topshirish",
+          "D": "Faqat guvoh bo'lish"
+        }
+      },
+      "18": {
+        "text": "Korrupsiyaviy xavflar xaritasining amaliy ahamiyati nimada?",
+        "options": {
+          "A": "Faqat arxivni yuritishda",
+          "B": "Faqat ish jadvalini tuzishda",
+          "C": "Profilaktika, audit va nazoratni yuqori xavfli sohalarga yo'naltirishda",
+          "D": "Faqat xodimlarni mukofotlashda"
+        }
+      },
+      "19": {
+        "text": "Ochiqlik indeksida rasmiy veb-saytda ma'lumot joylashtirilishi hisobga olinadimi?",
+        "options": {
+          "A": "Faqat bosma nashrda",
+          "B": "Yo'q",
+          "C": "Ha",
+          "D": "Faqat ichki portalda"
+        }
+      },
+      "20": {
+        "text": "Korrupsiyaga qarshi reytingda xabarlarni ko'rib chiqish yo'nalishi baholanadimi?",
+        "options": {
+          "A": "Ha",
+          "B": "Yo'q",
+          "C": "Faqat yil oxirida",
+          "D": "Faqat ayrim xodimlar uchun"
+        }
+      },
+      "21": {
+        "text": "Komplayens qaysi jarayonlarni doimiy monitoring qilishi ko'rsatilgan?",
+        "options": {
+          "A": "Davlat xaridlari, moddiy boyliklarni hisobdan chiqarish va ishga qabul qilish",
+          "B": "Faqat arxivni",
+          "C": "Faqat xizmat avtomobillarini",
+          "D": "Faqat xodimlarning ta'tilini"
+        }
+      },
+      "22": {
+        "text": "\"Raqamli komplayens\"ning mazmuni nimadan iborat?",
+        "options": {
+          "A": "Faqat hujjatlarni skanerlash",
+          "B": "Faqat elektron pochta yuritish",
+          "C": "Faqat davlat xaridlarini internetga joylashtirish",
+          "D": "Korrupsiyaga qarshi ichki nazorat jarayonlarini yagona axborot tizimi orqali avtomatlashtirish"
+        }
+      },
+      "23": {
+        "text": "Manfaatlar to'qnashuvi aniqlansa, xodimning asosiy vazifasi nima?",
+        "options": {
+          "A": "Qarorni tezlashtirish",
+          "B": "Uni yashirish",
+          "C": "Hujjatlarni yo'q qilish",
+          "D": "Belgilangan tartibda oshkor qilish va xabar berish"
+        }
+      },
+      "24": {
+        "text": "To'g'ridan-to'g'ri shartnoma qachon qo'llanishi mumkinligi hujjatda qanday izohlangan?",
+        "options": {
+          "A": "Qonun, Prezident yoki Hukumat hujjatlarida belgilangan holatlarda",
+          "B": "Faqat og'zaki topshiriq bilan",
+          "C": "Har qanday xodim xohishiga ko'ra",
+          "D": "Har qanday kichik xaridda"
+        }
+      },
+      "25": {
+        "text": "Ma'muriy huquqbuzarlik haqida xabar berilganda hujjatda ko'rsatilgan rag'bat miqdori qancha?",
+        "options": {
+          "A": "BHMning 3 baravari",
+          "B": "BHMning 10 baravari",
+          "C": "BHMning 2 baravari",
+          "D": "BHMning 15 baravari"
+        }
+      }
+    },
+    "answers": {
+      "1": "D",
+      "2": "C",
+      "3": "A",
+      "4": "A",
+      "5": "A",
+      "6": "A",
+      "7": "B",
+      "8": "B",
+      "9": "A",
+      "10": "A",
+      "11": "C",
+      "12": "B",
+      "13": "C",
+      "14": "B",
+      "15": "A",
+      "16": "B",
+      "17": "C",
+      "18": "C",
+      "19": "C",
+      "20": "A",
+      "21": "A",
+      "22": "D",
+      "23": "D",
+      "24": "A",
+      "25": "A"
+    }
+  },
+  "4": {
+    "questions": {
+      "1": {
+        "text": "Pora olish-berishda vositachilik nima?",
+        "options": {
+          "A": "Pora oluvchi va beruvchi o'rtasida kelishuvga ko'maklashish yoki po­rani bevosita topshirish",
+          "B": "Faqat porani rad etish",
+          "C": "Faqat shikoyat yozish",
+          "D": "Faqat guvoh bo'lish"
+        }
+      },
+      "2": {
+        "text": "Korrupsiyaviy xavflar xaritasini shakllantirishning birinchi bosqichi nima?",
+        "options": {
+          "A": "Jazo tayinlash",
+          "B": "Sudga murojaat qilish",
+          "C": "Xodimlarni ishdan bo'shatish",
+          "D": "Funksiyalar inventarizatsiyasi"
+        }
+      },
+      "3": {
+        "text": "Davlat xaridlarida \"qizil bayroqchalar\" tizimi nimaga xizmat qiladi?",
+        "options": {
+          "A": "Faqat narxlarni yashirishga",
+          "B": "Korrupsiyaviy xavflarni sun'iy intellekt yordamida erta aniqlashga",
+          "C": "Xodimlarning ish vaqtini hisoblashga",
+          "D": "Faqat shartnomalarni bekor qilishga"
+        }
+      },
+      "4": {
+        "text": "Yirik investitsiya loyihasida raqobatga ta'sirni baholashda nima tahlil qilinadi?",
+        "options": {
+          "A": "Sun'iy monopoliya, bozorga kirish to'siqlari va kamsituvchi shartlar ehtimoli",
+          "B": "Faqat transport xarajatlari",
+          "C": "Faqat xodimlar soni",
+          "D": "Faqat xizmat safari"
+        }
+      },
+      "5": {
+        "text": "PF-270 doirasida davlat xaridlari va investitsiya jarayonlarida qanday yondashuv ko'zda tutilgan?",
+        "options": {
+          "A": "Yagona yetkazib beruvchini majburiy qilish",
+          "B": "Yopiq kelishuvlarni kengaytirish",
+          "C": "Shaffoflik va raqobatni ta'minlash",
+          "D": "Jamoatchilik ishtirokini cheklash"
+        }
+      },
+      "6": {
+        "text": "O'RQ-419-son Qonunning asosiy maqsadi nima?",
+        "options": {
+          "A": "Davlat xizmatiga qabul qilishni tartibga solish",
+          "B": "Faqat davlat xaridlarini tartibga solish",
+          "C": "Faqat jinoyatlarni jazolash",
+          "D": "Korrupsiyaga qarshi kurashish sohasidagi munosabatlarni tartibga solish"
+        }
+      },
+      "7": {
+        "text": "Reytingning yo'nalishlaridan biri qaysi?",
+        "options": {
+          "A": "Korrupsiyaviy xavflarni aniqlash, baholash va kamaytirish choralari samaradorligi",
+          "B": "Faqat transport vositalari",
+          "C": "Faqat xodimlar soni",
+          "D": "Faqat ish haqi miqdori"
+        }
+      },
+      "8": {
+        "text": "Korrupsiyaga qarshi ekspertizada korrupsiyaviy omillarga misol qaysi?",
+        "options": {
+          "A": "Normativ bo'shliqlar, noaniq normalar va asossiz ma'muriy to'siqlar",
+          "B": "Faqat imlo xatolari",
+          "C": "Faqat hujjat hajmi",
+          "D": "Faqat sahifa soni"
+        }
+      },
+      "9": {
+        "text": "Korrupsiyaga qarshi reytingda xabarlarni ko'rib chiqish yo'nalishi baholanadimi?",
+        "options": {
+          "A": "Faqat yil oxirida",
+          "B": "Faqat ayrim xodimlar uchun",
+          "C": "Ha",
+          "D": "Yo'q"
+        }
+      },
+      "10": {
+        "text": "Vositachi poradan shaxsan naf ko'rmasa ham javobgar bo'lishi mumkinmi?",
+        "options": {
+          "A": "Ha",
+          "B": "Yo'q",
+          "C": "Faqat rahbar ruxsat bersa",
+          "D": "Faqat davlat xizmatchisi bo'lsa"
+        }
+      },
+      "11": {
+        "text": "Davlat xizmatchisi ijtimoiy tarmoqda xizmat axborotini tarqatishi mumkinmi?",
+        "options": {
+          "A": "Faqat anonim akkauntdan mumkin",
+          "B": "Ha, har doim mumkin",
+          "C": "Yo'q, xizmat axborotlarini oshkor qilmasligi kerak",
+          "D": "Faqat dam olish kunlari mumkin"
+        }
+      },
+      "12": {
+        "text": "Ma'muriy huquqbuzarlik haqida xabar berilganda hujjatda ko'rsatilgan rag'bat miqdori qancha?",
+        "options": {
+          "A": "BHMning 15 baravari",
+          "B": "BHMning 10 baravari",
+          "C": "BHMning 2 baravari",
+          "D": "BHMning 3 baravari"
+        }
+      },
+      "13": {
+        "text": "Davlat xizmatchisi xizmat vazifasi bilan bog'liq noqonuniy naf taklif qilinsa nima qilishi kerak?",
+        "options": {
+          "A": "Qabul qilib, keyin qaytarishi",
+          "B": "Hech kimga aytmasligi",
+          "C": "Uni rad etib, rahbariyat va komplayensga xabar berishi",
+          "D": "Faqat hamkasbiga aytishi"
+        }
+      },
+      "14": {
+        "text": "Korrupsiyaviy xavflar xaritasini kim tasdiqlashi ko'rsatilgan?",
+        "options": {
+          "A": "Faqat bosh hisobchi",
+          "B": "Tashkilot rahbari",
+          "C": "Faqat kadrlar bo'limi",
+          "D": "Faqat xarid komissiyasi"
+        }
+      },
+      "15": {
+        "text": "Uncha og'ir bo'lmagan jinoyat bo'yicha xabar uchun ko'rsatilgan bir martalik mukofot qancha?",
+        "options": {
+          "A": "BHMning 3 baravari",
+          "B": "BHMning 10 baravari",
+          "C": "BHMning 15 baravari",
+          "D": "BHMning 5 baravari"
+        }
+      },
+      "16": {
+        "text": "Ichki nazorat bo'linmasi manfaatlar to'qnashuvi bo'yicha nima qiladi?",
+        "options": {
+          "A": "Faqat sudga yuboradi",
+          "B": "Uni avtomatik ravishda huquqbuzarlik deb e'lon qiladi",
+          "C": "Uni yashiradi",
+          "D": "Uni erta aniqlash va bartaraf etishga ko'maklashadi"
+        }
+      },
+      "17": {
+        "text": "Yirik investitsiya loyihasi ekspertizasida nimani tekshirish muhim?",
+        "options": {
+          "A": "Faqat reklama xarajatlarini",
+          "B": "Faqat xodimlarning davomatini",
+          "C": "Loyiha ishtirokchilari, pudratchilar va benefitsiarlarning affillanganligini",
+          "D": "Faqat binoning maydonini"
+        }
+      },
+      "18": {
+        "text": "Fuqarolik jamiyati institutlarining korrupsiyaga qarshi ishtiroki qaysi shaklda bo'lishi mumkin?",
+        "options": {
+          "A": "Sud qarorlarini bekor qilish",
+          "B": "Faqat davlat xodimlarini tayinlash",
+          "C": "Davlat xaridlarini mustaqil tasdiqlash",
+          "D": "Jamoatchilik nazorati va jamoatchilik muhokamasida ishtirok etish"
+        }
+      },
+      "19": {
+        "text": "Davlat fuqarolik xizmatchisi tadbirkorlik faoliyati bilan shug'ullanishi mumkinmi?",
+        "options": {
+          "A": "Ha, har doim",
+          "B": "Faqat rahbar og'zaki ruxsat bersa",
+          "C": "Faqat ish vaqtida",
+          "D": "Yo'q, hujjatda bu qat'iy taqiqlangan deb ko'rsatilgan"
+        }
+      },
+      "20": {
+        "text": "PF-270-son Farmon bilan 2030-yilgacha ustuvor yo'nalishlardan biri sifatida nima belgilangan?",
+        "options": {
+          "A": "Davlat xaridlarini faqat qog'oz shaklida yuritish",
+          "B": "Korrupsiyaviy omillarni raqamlashtirish orqali bartaraf etish",
+          "C": "Faqat jarimalarni oshirish",
+          "D": "Barcha nazoratni bekor qilish"
+        }
+      },
+      "21": {
+        "text": "\"E-Antikorrupsiya\" loyihasining asosiy maqsadlaridan biri qaysi?",
+        "options": {
+          "A": "Korrupsiyaga qarshi faoliyatni raqamlashtirish va xavflarni elektron tahlil qilish",
+          "B": "Faqat xodimlar davomatini yuritish",
+          "C": "Faqat arxivni elektronlashtirish",
+          "D": "Faqat ish haqi hisoblash"
+        }
+      },
+      "22": {
+        "text": "Komplayensning profilaktik choralaridan biri qaysi?",
+        "options": {
+          "A": "Kontragentlarni shartnoma tuzishdan oldin Due Diligence tekshiruvidan o'tkazish",
+          "B": "Faqat og'zaki kelishish",
+          "C": "Shartnomani yashirish",
+          "D": "Kontragentlarni tekshirmaslik"
+        }
+      },
+      "23": {
+        "text": "To'g'ridan-to'g'ri shartnoma qachon qo'llanishi mumkinligi hujjatda qanday izohlangan?",
+        "options": {
+          "A": "Har qanday xodim xohishiga ko'ra",
+          "B": "Har qanday kichik xaridda",
+          "C": "Faqat og'zaki topshiriq bilan",
+          "D": "Qonun, Prezident yoki Hukumat hujjatlarida belgilangan holatlarda"
+        }
+      },
+      "24": {
+        "text": "Ekspertiza orqali qanday xavfning oldini olish maqsad qilinadi?",
+        "options": {
+          "A": "Mansabdor shaxslarga asossiz keng diskretsion vakolat berilishining",
+          "B": "Xodimlarning ta'tilga chiqishining",
+          "C": "Ish vaqtining qisqarishining",
+          "D": "Arxiv hujjatlari ko'payishining"
+        }
+      },
+      "25": {
+        "text": "Korrupsiya haqida xabar bergan shaxsni rag'batlantirish qachon amalga oshiriladi?",
+        "options": {
+          "A": "Har oy avtomatik",
+          "B": "Qonuniy kuchga kirgan sud hukmi yoki ma'muriy jazo haqidagi qaror asosida",
+          "C": "Rahbarning og'zaki topshirig'i bilan",
+          "D": "Xabar yuborilgan zahoti"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "D",
+      "3": "B",
+      "4": "A",
+      "5": "C",
+      "6": "D",
+      "7": "A",
+      "8": "A",
+      "9": "C",
+      "10": "A",
+      "11": "C",
+      "12": "D",
+      "13": "C",
+      "14": "B",
+      "15": "D",
+      "16": "D",
+      "17": "C",
+      "18": "D",
+      "19": "D",
+      "20": "B",
+      "21": "A",
+      "22": "A",
+      "23": "D",
+      "24": "A",
+      "25": "B"
+    }
+  },
+  "5": {
+    "questions": {
+      "1": {
+        "text": "Uncha og'ir bo'lmagan jinoyat bo'yicha xabar uchun ko'rsatilgan bir martalik mukofot qancha?",
+        "options": {
+          "A": "BHMning 5 baravari",
+          "B": "BHMning 10 baravari",
+          "C": "BHMning 15 baravari",
+          "D": "BHMning 3 baravari"
+        }
+      },
+      "2": {
+        "text": "Ochiqlik indeksida rasmiy veb-saytda ma'lumot joylashtirilishi hisobga olinadimi?",
+        "options": {
+          "A": "Faqat ichki portalda",
+          "B": "Ha",
+          "C": "Faqat bosma nashrda",
+          "D": "Yo'q"
+        }
+      },
+      "3": {
+        "text": "Ekspertiza orqali qanday xavfning oldini olish maqsad qilinadi?",
+        "options": {
+          "A": "Xodimlarning ta'tilga chiqishining",
+          "B": "Arxiv hujjatlari ko'payishining",
+          "C": "Ish vaqtining qisqarishining",
+          "D": "Mansabdor shaxslarga asossiz keng diskretsion vakolat berilishining"
+        }
+      },
+      "4": {
+        "text": "Elektron reyestrga kiritilgan jarayonlarga qanday yondashuv qo'llanadi?",
+        "options": {
+          "A": "Faqat yil oxirida tekshirish",
+          "B": "Kuchaytirilgan avtomatlashtirilgan monitoring va inson omilini kamaytirish",
+          "C": "Nazoratni butunlay bekor qilish",
+          "D": "Faqat qog'ozda yuritish"
+        }
+      },
+      "5": {
+        "text": "Ochiqlik indeksi hujjatda qanday tizimda baholanishi ko'rsatilgan?",
+        "options": {
+          "A": "1000 ballik tizimda",
+          "B": "50 ballik tizimda",
+          "C": "100 ballik tizimda",
+          "D": "10 ballik tizimda"
+        }
+      },
+      "6": {
+        "text": "Reytingda xodimlarning korrupsiyaga qarshi immuniteti qanday baholanadi?",
+        "options": {
+          "A": "Faqat davomat orqali",
+          "B": "Faqat lavozimi orqali",
+          "C": "Faqat xizmat staji orqali",
+          "D": "O'qitish, test sinovlari va targ'ibot orqali"
+        }
+      },
+      "7": {
+        "text": "Ichki nazorat bo'linmasi tashkilotning boshqa bo'linmalaridan axborot olish bo'yicha qanday huquqqa ega?",
+        "options": {
+          "A": "Umuman huquqi yo'q",
+          "B": "Zarur hujjat va axborotni to'siqsiz olish huquqiga ega",
+          "C": "Faqat og'zaki ma'lumot olish huquqiga ega",
+          "D": "Faqat yil yakunida olish huquqiga ega"
+        }
+      },
+      "8": {
+        "text": "Komplayensning profilaktik choralaridan biri qaysi?",
+        "options": {
+          "A": "Kontragentlarni shartnoma tuzishdan oldin Due Diligence tekshiruvidan o'tkazish",
+          "B": "Faqat og'zaki kelishish",
+          "C": "Kontragentlarni tekshirmaslik",
+          "D": "Shartnomani yashirish"
+        }
+      },
+      "9": {
+        "text": "Ochiqlik indeksida 80--100 ball qanday toifaga kiradi?",
+        "options": {
+          "A": "Qizil",
+          "B": "Yashil",
+          "C": "Ko'k",
+          "D": "Sariq"
+        }
+      },
+      "10": {
+        "text": "Korrupsiyaga qarshi kurashishning qaysi prinsipi profilaktikaga ustuvorlik beradi?",
+        "options": {
+          "A": "Iqtisodiy tejamkorlik",
+          "B": "Korrupsiyaning oldini olishga doir chora-tadbirlar ustuvorligi",
+          "C": "Faqat jazo muqarrarligi",
+          "D": "Maxfiylik"
+        }
+      },
+      "11": {
+        "text": "Davlat xaridini raqobatli jarayondan qochish uchun sun'iy ravishda partiyalarga bo'lish mumkinmi?",
+        "options": {
+          "A": "Ha, har doim",
+          "B": "Yo'q",
+          "C": "Faqat yil oxirida",
+          "D": "Faqat og'zaki ruxsat bilan"
+        }
+      },
+      "12": {
+        "text": "Og'ir jinoyat bo'yicha xabar uchun ko'rsatilgan bir martalik mukofot qancha?",
+        "options": {
+          "A": "BHMning 5 baravari",
+          "B": "BHMning 15 baravari",
+          "C": "BHMning 3 baravari",
+          "D": "BHMning 10 baravari"
+        }
+      },
+      "13": {
+        "text": "Ochiqlik indeksida 55 balldan past natija qanday toifa?",
+        "options": {
+          "A": "Ko'k",
+          "B": "Sariq",
+          "C": "Qizil",
+          "D": "Yashil"
+        }
+      },
+      "14": {
+        "text": "Davlat fuqarolik xizmatchisi tadbirkorlik faoliyati bilan shug'ullanishi mumkinmi?",
+        "options": {
+          "A": "Faqat ish vaqtida",
+          "B": "Faqat rahbar og'zaki ruxsat bersa",
+          "C": "Ha, har doim",
+          "D": "Yo'q, hujjatda bu qat'iy taqiqlangan deb ko'rsatilgan"
+        }
+      },
+      "15": {
+        "text": "Tender qaysi xaridlar uchun qo'llanishi ko'rsatilgan?",
+        "options": {
+          "A": "Faqat kichik standart tovarlar uchun",
+          "B": "Faqat bepul xizmatlar uchun",
+          "C": "Faqat xodimlar uchun",
+          "D": "Qiymati yuqori va murakkab texnik xususiyatlarga ega tovar, ish va xizmatlar uchun"
+        }
+      },
+      "16": {
+        "text": "Korrupsiyaga qarshi ekspertizada korrupsiyaviy omillarga misol qaysi?",
+        "options": {
+          "A": "Normativ bo'shliqlar, noaniq normalar va asossiz ma'muriy to'siqlar",
+          "B": "Faqat sahifa soni",
+          "C": "Faqat hujjat hajmi",
+          "D": "Faqat imlo xatolari"
+        }
+      },
+      "17": {
+        "text": "Korrupsiya haqida xabar bergan shaxsni rag'batlantirish qachon amalga oshiriladi?",
+        "options": {
+          "A": "Xabar yuborilgan zahoti",
+          "B": "Qonuniy kuchga kirgan sud hukmi yoki ma'muriy jazo haqidagi qaror asosida",
+          "C": "Rahbarning og'zaki topshirig'i bilan",
+          "D": "Har oy avtomatik"
+        }
+      },
+      "18": {
+        "text": "\"Raqamli komplayens\"ning mazmuni nimadan iborat?",
+        "options": {
+          "A": "Faqat hujjatlarni skanerlash",
+          "B": "Faqat elektron pochta yuritish",
+          "C": "Korrupsiyaga qarshi ichki nazorat jarayonlarini yagona axborot tizimi orqali avtomatlashtirish",
+          "D": "Faqat davlat xaridlarini internetga joylashtirish"
+        }
+      },
+      "19": {
+        "text": "Korrupsiyaviy xavflar xaritasini kim tasdiqlashi ko'rsatilgan?",
+        "options": {
+          "A": "Tashkilot rahbari",
+          "B": "Faqat kadrlar bo'limi",
+          "C": "Faqat bosh hisobchi",
+          "D": "Faqat xarid komissiyasi"
+        }
+      },
+      "20": {
+        "text": "Korrupsiyaviy xavflar xaritasining amaliy ahamiyati nimada?",
+        "options": {
+          "A": "Faqat arxivni yuritishda",
+          "B": "Profilaktika, audit va nazoratni yuqori xavfli sohalarga yo'naltirishda",
+          "C": "Faqat ish jadvalini tuzishda",
+          "D": "Faqat xodimlarni mukofotlashda"
+        }
+      },
+      "21": {
+        "text": "Korrupsiyaviy xavflar xaritasini shakllantirishning birinchi bosqichi nima?",
+        "options": {
+          "A": "Xodimlarni ishdan bo'shatish",
+          "B": "Jazo tayinlash",
+          "C": "Funksiyalar inventarizatsiyasi",
+          "D": "Sudga murojaat qilish"
+        }
+      },
+      "22": {
+        "text": "Davlat xizmatchisi xizmat vazifasi bilan bog'liq noqonuniy naf taklif qilinsa nima qilishi kerak?",
+        "options": {
+          "A": "Uni rad etib, rahbariyat va komplayensga xabar berishi",
+          "B": "Faqat hamkasbiga aytishi",
+          "C": "Qabul qilib, keyin qaytarishi",
+          "D": "Hech kimga aytmasligi"
+        }
+      },
+      "23": {
+        "text": "PF-270-son Farmon bilan 2030-yilgacha ustuvor yo'nalishlardan biri sifatida nima belgilangan?",
+        "options": {
+          "A": "Korrupsiyaviy omillarni raqamlashtirish orqali bartaraf etish",
+          "B": "Davlat xaridlarini faqat qog'oz shaklida yuritish",
+          "C": "Barcha nazoratni bekor qilish",
+          "D": "Faqat jarimalarni oshirish"
+        }
+      },
+      "24": {
+        "text": "Qonunning 3-moddasiga ko'ra korrupsiya nima?",
+        "options": {
+          "A": "Faqat davlat mulkini o'zlashtirish",
+          "B": "Har qanday xizmat xatosi",
+          "C": "Mansab yoki xizmat mavqeidan shaxsiy yoki o'zga shaxslar manfaatini ko'zlab moddiy yoki nomoddiy naf olish uchun qonunga xilof foydalanish yoki bunday nafni qonunga xilof taqdim etish",
+          "D": "Faqat pul olish"
+        }
+      },
+      "25": {
+        "text": "Yagona yetkazib beruvchi bilan xaridga misol sifatida nima ko'rsatilgan?",
+        "options": {
+          "A": "Faqat yangi tashkil etilgan korxona",
+          "B": "Tabiiy monopoliya subyekti yoki mualliflik huquqi egasi",
+          "C": "Istalgan tanish firma",
+          "D": "Faqat eng arzon firma"
+        }
+      }
+    },
+    "answers": {
+      "1": "A",
+      "2": "B",
+      "3": "D",
+      "4": "B",
+      "5": "C",
+      "6": "D",
+      "7": "B",
+      "8": "A",
+      "9": "B",
+      "10": "B",
+      "11": "B",
+      "12": "D",
+      "13": "C",
+      "14": "D",
+      "15": "D",
+      "16": "A",
+      "17": "B",
+      "18": "C",
+      "19": "A",
+      "20": "B",
+      "21": "C",
+      "22": "A",
+      "23": "A",
+      "24": "C",
+      "25": "B"
+    }
+  }
+}
